@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="index.html, DOM.js and style.css has been created">
-      <change beforePath="$PROJECT_DIR$/Opdrachten/DOM/DOM.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/DOM/DOM.js" afterDir="false" />
+    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Changes in DOM.js">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/DOM/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/DOM/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +78,7 @@
       <workItem from="1602159928649" duration="9000" />
       <workItem from="1602351690839" duration="1043000" />
       <workItem from="1603089475935" duration="34000" />
-      <workItem from="1603089534289" duration="3205000" />
+      <workItem from="1603089534289" duration="3973000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Opdrachten&quot; directory has been added">
       <created>1602140320644</created>
@@ -128,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603095820810</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Changes in DOM.js">
+      <created>1603096337691</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603096337691</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,13 +159,14 @@
     <MESSAGE value="&quot;Opdrachten&quot; directory has been added" />
     <MESSAGE value="basis.js is added and changed" />
     <MESSAGE value="index.html, DOM.js and style.css has been created" />
-    <option name="LAST_COMMIT_MESSAGE" value="index.html, DOM.js and style.css has been created" />
+    <MESSAGE value="Changes in DOM.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes in DOM.js" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603095824004">
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603096338758">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603095824004" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603096338758" />
   </component>
 </project>
