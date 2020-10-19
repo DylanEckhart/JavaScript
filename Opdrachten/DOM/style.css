@@ -1,0 +1,16 @@
+#wrapper {
+    margin: auto;
+    width: 70%;
+}
+body {
+    font-family: 'Noto Serif', serif;
+    padding: 0px;
+    margin: 0px;
+}
+div #bl1, #bl2, #bl3, #bl4 {
+    box-sizing: border-box;
+    display: inline;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
