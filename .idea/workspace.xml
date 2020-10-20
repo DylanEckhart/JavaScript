@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Renamed pictures">
+    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Gave a background color and removed border">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/shuffle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/shuffle.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,7 @@
       <workItem from="1602351690839" duration="1043000" />
       <workItem from="1603089475935" duration="34000" />
       <workItem from="1603089534289" duration="4984000" />
-      <workItem from="1603176799475" duration="3631000" />
+      <workItem from="1603176799475" duration="4724000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Opdrachten&quot; directory has been added">
       <created>1602140320644</created>
@@ -158,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603181848832</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Gave a background color and removed border">
+      <created>1603182342412</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1603182342412</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,13 +189,14 @@
     <MESSAGE value="index.html, DOM.js and style.css has been created" />
     <MESSAGE value="Changes in DOM.js" />
     <MESSAGE value="Renamed pictures" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renamed pictures" />
+    <MESSAGE value="Gave a background color and removed border" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gave a background color and removed border" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603181850157">
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603182343929">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603181850157" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603182343929" />
   </component>
 </project>
