@@ -10,7 +10,7 @@ while (randomNumbers.length < 9) {
 }
 random = 0;
 for (var plaatje in plaatjes) {
-    plaatjes[plaatje].src = "IMG/f" + random + ".png";
+    plaatjes[plaatje].src = "IMG/f" + random + ".jpg";
     random++;
 }
 

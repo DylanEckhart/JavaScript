@@ -20,25 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Changes in DOM.js">
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/shuffle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Basis/basis.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk1/basis.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Basis/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/DOM/DOM.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk2/DOM.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/DOM/IMG/aap1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk2/IMG/aap1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/DOM/IMG/aap2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk2/IMG/aap2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/DOM/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/DOM/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk2/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f6.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f7.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f8.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f9.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/shuffle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/shuffle.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +84,7 @@
       <workItem from="1602351690839" duration="1043000" />
       <workItem from="1603089475935" duration="34000" />
       <workItem from="1603089534289" duration="4984000" />
-      <workItem from="1603176799475" duration="3043000" />
+      <workItem from="1603176799475" duration="3347000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Opdrachten&quot; directory has been added">
       <created>1602140320644</created>
@@ -161,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603097255824</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Changes in DOM.js">
+      <created>1603181664003</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603181664003</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
