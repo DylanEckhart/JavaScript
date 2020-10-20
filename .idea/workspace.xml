@@ -19,13 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Changes in DOM.js">
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f6.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f7.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f8.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f9.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/IMG/f9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/index.html" afterDir="false" />
+    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Renamed pictures">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/shuffle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk3/shuffle.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +79,7 @@
       <workItem from="1602351690839" duration="1043000" />
       <workItem from="1603089475935" duration="34000" />
       <workItem from="1603089534289" duration="4984000" />
-      <workItem from="1603176799475" duration="3347000" />
+      <workItem from="1603176799475" duration="3631000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Opdrachten&quot; directory has been added">
       <created>1602140320644</created>
@@ -156,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603181664003</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Renamed pictures">
+      <created>1603181848832</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603181848832</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,13 +182,14 @@
     <MESSAGE value="basis.js is added and changed" />
     <MESSAGE value="index.html, DOM.js and style.css has been created" />
     <MESSAGE value="Changes in DOM.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes in DOM.js" />
+    <MESSAGE value="Renamed pictures" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renamed pictures" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603097257282">
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603181850157">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603097257282" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603181850157" />
   </component>
 </project>

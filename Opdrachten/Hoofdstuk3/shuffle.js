@@ -7,11 +7,11 @@ while (randomNumbers.length < 9) {
     if (randomNumbers.lastIndexOf(random) == -1) {
         randomNumbers.push(random);
     }
-}
-random = 0;
-for (var plaatje in plaatjes) {
-    plaatjes[plaatje].src = "IMG/f" + random + ".jpg";
-    random++;
+    random = 0;
+    for (var plaatje in plaatjes) {
+        plaatjes[plaatje].src = "IMG/f" + randomNumbers[random] + ".jpg";
+        random++;
+    }
 }
 
 
