@@ -43,6 +43,45 @@ function getDriver() {
 
 //Opdracht 4.3
 
+var crooks = [1,2,3,4];
+var count = 0;
+
+var crook1 = document.getElementById("Crook1");
+crook1.style.backgroundImage = "url('IMG/f1.jpg')";
+var crook2 = document.getElementById("Crook2");
+crook2.style.backgroundImage = "url('IMG/f1.jpg')";
+var crook3 = document.getElementById("Crook3");
+crook3.style.backgroundImage = "url('IMG/f1.jpg')";
+
+crook1.addEventListener("click", function() {
+    crook1.style.backgroundImage = "url('IMG/f" + getCrook() + ".jpg')";
+});
+crook2.addEventListener("click", function() {
+    crook2.style.backgroundImage = "url('IMG/f" + getCrook() + ".jpg')";
+});
+crook3.addEventListener("click", function() {
+    crook3.style.backgroundImage = "url('IMG/f" + getCrook() + ".jpg')";
+});
+
+function getCrook() {
+    if(count >= crook1.length) {
+        count = 1;
+    } else {
+        count++;
+    }
+    if(count >= crook2.length) {
+        count = 1;
+    } else {
+        count++;
+    }
+    if(count >= crook3.length) {
+        count = 1;
+    } else {
+        count++;
+    }
+    return count;
+}
+
 
 
 
