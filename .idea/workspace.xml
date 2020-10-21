@@ -19,24 +19,36 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Made Opdracht 4.3">
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Monden/crookMond1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Monden/crookMond2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Monden/crookMond3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Monden/crookMond4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Monden/crookMond5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Neuzen/crookNeus1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Neuzen/crookNeus2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Neuzen/crookNeus3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Neuzen/crookNeus4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Neuzen/crookNeus5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Ogen/crookOgen1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Ogen/crookOgen2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Ogen/crookOgen3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Ogen/crookOgen4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Ogen/crookOgen5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/script.js" afterDir="false" />
+    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Changed .png to .jpg">
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.3/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMG/f1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.1&amp;2.2/IMG/f1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMG/f2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.1&amp;2.2/IMG/f2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMG/f3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.1&amp;2.2/IMG/f3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMG/f4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.1&amp;2.2/IMG/f4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMG/f5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.1&amp;2.2/IMG/f5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMG/f6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.1&amp;2.2/IMG/f6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMG/f7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.1&amp;2.2/IMG/f7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMG/f8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.1&amp;2.2/IMG/f8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMG/f9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.1&amp;2.2/IMG/f9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Monden/crookMond1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.3/IMGCrook/Monden/crookMond1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Monden/crookMond2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.3/IMGCrook/Monden/crookMond2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Monden/crookMond3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.3/IMGCrook/Monden/crookMond3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Monden/crookMond4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.3/IMGCrook/Monden/crookMond4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Monden/crookMond5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.3/IMGCrook/Monden/crookMond5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Neuzen/crookNeus1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.3/IMGCrook/Neuzen/crookNeus1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Neuzen/crookNeus2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.3/IMGCrook/Neuzen/crookNeus2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Neuzen/crookNeus3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.3/IMGCrook/Neuzen/crookNeus3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Neuzen/crookNeus4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.3/IMGCrook/Neuzen/crookNeus4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Neuzen/crookNeus5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.3/IMGCrook/Neuzen/crookNeus5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Ogen/crookOgen1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.3/IMGCrook/Ogen/crookOgen1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Ogen/crookOgen2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.3/IMGCrook/Ogen/crookOgen2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Ogen/crookOgen3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.3/IMGCrook/Ogen/crookOgen3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Ogen/crookOgen4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.3/IMGCrook/Ogen/crookOgen4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Ogen/crookOgen5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.3/IMGCrook/Ogen/crookOgen5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.1&amp;2.2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.1&amp;2.2/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,11 +89,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.3" />
+      <recent name="$PROJECT_DIR$/Opdrachten" />
+      <recent name="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.1&amp;2.2" />
       <recent name="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Ogen" />
       <recent name="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Neuzen" />
-      <recent name="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Monden" />
-      <recent name="$PROJECT_DIR$/Opdrachten/DOM/IMG" />
-      <recent name="$PROJECT_DIR$/Opdrachten/OwnProject" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -99,7 +111,7 @@
       <workItem from="1603089534289" duration="4984000" />
       <workItem from="1603176799475" duration="5054000" />
       <workItem from="1603186635275" duration="419000" />
-      <workItem from="1603263279382" duration="6540000" />
+      <workItem from="1603263279382" duration="7151000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Opdrachten&quot; directory has been added">
       <created>1602140320644</created>
@@ -255,7 +267,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603269033661</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Made Opdracht 4.3">
+      <created>1603272234879</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1603272234879</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Changed .png to .jpg">
+      <created>1603272452014</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1603272452014</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,17 +312,18 @@
     <MESSAGE value="Changed transition time to 1s" />
     <MESSAGE value="Changed border to 1px black solid" />
     <MESSAGE value="Made Opdracht 4.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made Opdracht 4.3" />
+    <MESSAGE value="Changed .png to .jpg" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed .png to .jpg" />
   </component>
   <component name="WindowStateProjectService">
     <state x="701" y="344" key="#Notifications" timestamp="1603267629146">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="701" y="344" key="#Notifications/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603267629146" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603269035258">
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603272453861">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603269035258" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603272453861" />
   </component>
 </project>
