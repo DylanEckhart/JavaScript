@@ -12,13 +12,13 @@ crook2.style.backgroundImage = "url('IMGCrook/crookNeus1.jpg')";
 var crook3 = document.getElementById("Crook3");
 crook3.style.backgroundImage = "url('IMGCrook/crookMond1.jpg')";
 
-crook1.addEventListener("click", function() {
+crook1.addEventListener("click1", function() {
     crook1.style.backgroundImage = "url('IMGCrook/crookOgen" + getCrook() + ".jpg')";
 });
-crook2.addEventListener("click", function() {
+crook2.addEventListener("click2", function() {
     crook2.style.backgroundImage = "url('IMGCrook/crookNeus" + getCrook() + ".jpg')";
 });
-crook3.addEventListener("click", function() {
+crook3.addEventListener("click3", function() {
     crook3.style.backgroundImage = "url('IMGCrook/crookMond" + getCrook() + ".jpg')";
 });
 
