@@ -1,4 +1,8 @@
-var crooks = [1,2,3,4,5];
+//Opdracht 4.3
+
+var crooksOgen = [1,2,3,4,5];
+var crooksNeus = [1,2,3,4,5];
+var crooksMond = [1,2,3,4,5];
 var count = 0;
 
 var crook1 = document.getElementById("Crook1");
@@ -19,17 +23,17 @@ crook3.addEventListener("click", function() {
 });
 
 function getCrook() {
-    if(count >= crooks.length) {
+    if(count >= crooksOgen.length) {
         count = 1;
     } else {
         count++;
     }
-    if(count >= crooks.length) {
+    if(count >= crooksNeus.length) {
         count = 1;
     } else {
         count++;
     }
-    if(count >= crooks.length) {
+    if(count >= crooksMond.length) {
         count = 1;
     } else {
         count++;
