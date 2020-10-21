@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Added photos">
+    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Changed transition time to 1s">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +81,7 @@
       <workItem from="1603089534289" duration="4984000" />
       <workItem from="1603176799475" duration="5054000" />
       <workItem from="1603186635275" duration="419000" />
-      <workItem from="1603263279382" duration="2680000" />
+      <workItem from="1603263279382" duration="3494000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Opdrachten&quot; directory has been added">
       <created>1602140320644</created>
@@ -196,7 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603265247836</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Fixed the getDriver function in script.js">
+      <created>1603266687137</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1603266687137</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Changed transition time to 1s">
+      <created>1603266738319</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1603266738319</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,13 +236,15 @@
     <MESSAGE value="Renamed pictures" />
     <MESSAGE value="Gave a background color and removed border" />
     <MESSAGE value="Added photos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added photos" />
+    <MESSAGE value="Fixed the getDriver function in script.js" />
+    <MESSAGE value="Changed transition time to 1s" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed transition time to 1s" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603265249414">
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603266740783">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603265249414" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603266740783" />
   </component>
 </project>
