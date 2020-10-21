@@ -78,7 +78,7 @@
       <workItem from="1603089534289" duration="4984000" />
       <workItem from="1603176799475" duration="5054000" />
       <workItem from="1603186635275" duration="419000" />
-      <workItem from="1603263279382" duration="3687000" />
+      <workItem from="1603263279382" duration="4164000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Opdrachten&quot; directory has been added">
       <created>1602140320644</created>
@@ -213,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603267606267</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Changed transition time to 1s">
+      <created>1603267653138</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1603267653138</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,10 +256,10 @@
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="701" y="344" key="#Notifications/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603267629146" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603267610694">
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603267655248">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603267610694" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603267655248" />
   </component>
 </project>
