@@ -21,7 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Made 2 directory's">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/4.3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/4.3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/4.3/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/4.3/crookScript.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +63,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.3" />
       <recent name="$PROJECT_DIR$/Opdrachten" />
       <recent name="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/2.1&amp;2.2" />
       <recent name="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Ogen" />
-      <recent name="$PROJECT_DIR$/Opdrachten/Hoofdstuk4/IMGCrook/Neuzen" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -85,7 +86,9 @@
       <workItem from="1603176799475" duration="5054000" />
       <workItem from="1603186635275" duration="419000" />
       <workItem from="1603263279382" duration="7858000" />
-      <workItem from="1603273563353" duration="1194000" />
+      <workItem from="1603273563353" duration="2148000" />
+      <workItem from="1603279792470" duration="800000" />
+      <workItem from="1603291090162" duration="1378000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Opdrachten&quot; directory has been added">
       <created>1602140320644</created>
@@ -290,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603273756934</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Made 2 directory's">
+      <created>1603275257929</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1603275257929</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -330,10 +340,10 @@
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="701" y="344" key="#Notifications/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603267629146" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603273758112">
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603275259378">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603273758112" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603275259378" />
   </component>
 </project>
