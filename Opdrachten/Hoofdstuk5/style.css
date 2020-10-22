@@ -3,6 +3,8 @@ body {
     text-align: center;
 }
 div.driverPicture {
+    box-sizing: border-box;
+    border: 1px solid black;
     height: 450px;
     width: 300px;
     float: left;
