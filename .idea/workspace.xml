@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Made a new directory">
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk5/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk5/style.css" afterDir="false" />
+    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Body and #pictures implemented in style.css">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk5/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk5/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk5/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk5/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +90,7 @@
       <workItem from="1603279792470" duration="800000" />
       <workItem from="1603291090162" duration="4215000" />
       <workItem from="1603297495455" duration="16000" />
-      <workItem from="1603351264317" duration="516000" />
+      <workItem from="1603351264317" duration="3202000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Opdrachten&quot; directory has been added">
       <created>1602140320644</created>
@@ -365,7 +365,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603351310881</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Made index.html, script.js and style.css">
+      <created>1603351854323</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1603351854323</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Body and #pictures implemented in style.css">
+      <created>1603351989391</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1603351989391</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -400,18 +414,20 @@
     <MESSAGE value="Made 2 directory's" />
     <MESSAGE value="Made functions" />
     <MESSAGE value="Made a new directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made a new directory" />
+    <MESSAGE value="Made index.html, script.js and style.css" />
+    <MESSAGE value="Body and #pictures implemented in style.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Body and #pictures implemented in style.css" />
   </component>
   <component name="WindowStateProjectService">
     <state x="701" y="344" key="#Notifications" timestamp="1603267629146">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="701" y="344" key="#Notifications/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603267629146" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603351312523">
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603351990691">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603351312523" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603351990691" />
     <state x="420" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1603297395202" />
   </component>
 </project>

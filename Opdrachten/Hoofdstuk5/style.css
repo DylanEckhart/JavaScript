@@ -2,6 +2,12 @@ body {
     font-family: 'Copse', serif;
     text-align: center;
 }
+div.driverPicture {
+    height: 450px;
+    width: 300px;
+    float: left;
+    background-color: red;
+}
 #pictures {
     width: 900px;
     height: 1350px;
