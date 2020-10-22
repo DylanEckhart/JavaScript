@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="createDriverPictures function">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk5/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk5/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk5/IMG/heart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk5/IMG/heart.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +89,7 @@
       <workItem from="1603279792470" duration="800000" />
       <workItem from="1603291090162" duration="4215000" />
       <workItem from="1603297495455" duration="16000" />
-      <workItem from="1603351264317" duration="6929000" />
+      <workItem from="1603351264317" duration="7259000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Opdrachten&quot; directory has been added">
       <created>1602140320644</created>
@@ -406,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603358685422</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="createDriverPictures function">
+      <created>1603359315632</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1603359315632</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,10 +460,10 @@
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="701" y="344" key="#Notifications/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603267629146" />
-    <state x="560" y="257" key="Vcs.Push.Dialog.v2" timestamp="1603358686831">
+    <state x="560" y="257" key="Vcs.Push.Dialog.v2" timestamp="1603359316847">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603358686831" />
+    <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603359316847" />
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
     <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603355777330" />
     <state x="420" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1603297395202" />
