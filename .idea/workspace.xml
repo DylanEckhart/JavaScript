@@ -19,8 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Made functions">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Made a new directory">
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk5/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk5/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +35,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -88,6 +90,7 @@
       <workItem from="1603279792470" duration="800000" />
       <workItem from="1603291090162" duration="4215000" />
       <workItem from="1603297495455" duration="16000" />
+      <workItem from="1603351264317" duration="516000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Opdrachten&quot; directory has been added">
       <created>1602140320644</created>
@@ -355,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603297393591</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Made a new directory">
+      <created>1603351310881</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1603351310881</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,18 +399,19 @@
     <MESSAGE value="Changed .png to .jpg" />
     <MESSAGE value="Made 2 directory's" />
     <MESSAGE value="Made functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made functions" />
+    <MESSAGE value="Made a new directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made a new directory" />
   </component>
   <component name="WindowStateProjectService">
     <state x="701" y="344" key="#Notifications" timestamp="1603267629146">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="701" y="344" key="#Notifications/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603267629146" />
-    <state x="420" y="200" key="Vcs.Push.Dialog.v2" timestamp="1603297395202">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603351312523">
+      <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603275259378" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603351312523" />
     <state x="420" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1603297395202" />
   </component>
 </project>
