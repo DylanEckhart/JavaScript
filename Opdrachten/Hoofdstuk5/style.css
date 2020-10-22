@@ -1,0 +1,11 @@
+body {
+    font-family: 'Copse', serif;
+    text-align: center;
+}
+#pictures {
+    width: 900px;
+    height: 1350px;
+    border: 1px solid black;
+    font-size: 0px;
+    margin: auto;
+}
