@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="createDriverPictures function">
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk5/IMG/heart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk5/IMG/heart.jpg" beforeDir="false" />
+    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Changed heart.jpg and style">
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Hoofdstuk5/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk5/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +88,7 @@
       <workItem from="1603279792470" duration="800000" />
       <workItem from="1603291090162" duration="4215000" />
       <workItem from="1603297495455" duration="16000" />
-      <workItem from="1603351264317" duration="7259000" />
+      <workItem from="1603351264317" duration="7614000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Opdrachten&quot; directory has been added">
       <created>1602140320644</created>
@@ -413,7 +412,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603359315632</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="createDriverPictures function">
+      <created>1603359544406</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1603359544406</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Changed heart.jpg and style">
+      <created>1603359685027</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1603359685027</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,16 +466,18 @@
     <MESSAGE value="Made function createPictureHolders in script.js" />
     <MESSAGE value="Made 9 frames" />
     <MESSAGE value="createDriverPictures function" />
-    <option name="LAST_COMMIT_MESSAGE" value="createDriverPictures function" />
+    <MESSAGE value="Changed heart.jpg and style" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed heart.jpg and style" />
   </component>
   <component name="WindowStateProjectService">
     <state x="701" y="344" key="#Notifications" timestamp="1603267629146">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="701" y="344" key="#Notifications/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603267629146" />
-    <state x="560" y="257" key="Vcs.Push.Dialog.v2" timestamp="1603359316847">
+    <state x="560" y="257" key="Vcs.Push.Dialog.v2" timestamp="1603359686305">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
+    <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1821/0.23.1920.1057@0.23.1920.1057" timestamp="1603359686305" />
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603359316847" />
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
     <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603355777330" />

@@ -33,10 +33,13 @@ function createDriverPictures() {
 
 // Favoriet maken van foto
 function maakFavoriet(id) {
+    notsofavoriet = document.getElementsByClassName("favoriet");
+    for (var i = 0; i < notsofavoriet.length; i++) {
+        notsofavoriet[i].style.backgroundImage = "none";
+    }
+
     favoriet = document.getElementById("favoriet_" + id);
     favoriet.style.backgroundImage = "url('IMG/heart.jpg')";
-
-
 }
 
 
