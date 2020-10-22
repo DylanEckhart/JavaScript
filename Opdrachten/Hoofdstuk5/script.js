@@ -16,9 +16,12 @@ function createPictureHolders() {
 // Plaatjes in pictureHolders zetten
 function createDriverPictures() {
     pictureHolders = document.getElementsByClassName("driverPicture");
-    for (var i = 0; 9 < pictureHolders.length; i++) {
-        driverFoto = document.createElement("img");
-        driverFoto.src = "url('IMG/f" + (i + 1) + ".jpg')";
+    for (var i = 0; i < pictureHolders.length; i++) {
+        favoriet = document.createElement("div");
+        favoriet.className = "favoriet";
+        driverFoto = document.createElement("IMG");
+        driverFoto.src = "IMG/f" + (i + 1) + ".jpg";
+        pictureHolders[i].appendChild(favoriet);
         pictureHolders[i].appendChild(driverFoto);
     }
 }

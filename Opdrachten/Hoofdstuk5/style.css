@@ -10,6 +10,11 @@ div.driverPicture {
     float: left;
     background-color: red;
 }
+div.favoriet {
+    width: 300px;
+    height: 150px;
+    background-color: blue;
+}
 #pictures {
     width: 900px;
     height: 1350px;
