@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Made HTML, CSS and JS files">
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" afterDir="false" />
+    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Made functions">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,14 +92,8 @@
       <workItem from="1603351264317" duration="7880000" />
       <workItem from="1603697630484" duration="358000" />
       <workItem from="1603698186063" duration="318000" />
-      <workItem from="1603703891762" duration="5099000" />
-    </task>
-    <task id="LOCAL-00005" summary="basis.js is added and changed">
-      <created>1602143391388</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1602143391388</updated>
+      <workItem from="1603703891762" duration="5256000" />
+      <workItem from="1603723786945" duration="611000" />
     </task>
     <task id="LOCAL-00006" summary="basis.js is added and changed">
       <created>1602144018237</created>
@@ -437,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603710793524</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Made functions">
+      <created>1603712948443</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1603712948443</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -470,7 +471,6 @@
     <MESSAGE value="Made Opdracht 4.3" />
     <MESSAGE value="Changed .png to .jpg" />
     <MESSAGE value="Made 2 directory's" />
-    <MESSAGE value="Made functions" />
     <MESSAGE value="Made a new directory" />
     <MESSAGE value="Made index.html, script.js and style.css" />
     <MESSAGE value="Body and #pictures implemented in style.css" />
@@ -479,7 +479,8 @@
     <MESSAGE value="createDriverPictures function" />
     <MESSAGE value="Changed heart.jpg and style" />
     <MESSAGE value="Made HTML, CSS and JS files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made HTML, CSS and JS files" />
+    <MESSAGE value="Made functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made functions" />
   </component>
   <component name="WindowStateProjectService">
     <state x="701" y="344" key="#Notifications" timestamp="1603267629146">
@@ -490,13 +491,13 @@
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="469" y="152" key="SettingsEditor/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603703917624" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603710794657">
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603712951014">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1821/0.23.1920.1057@0.23.1920.1057" timestamp="1603359975522" />
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603359316847" />
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603710794657" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603712951014" />
     <state x="420" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1603297395202" />
   </component>
 </project>
