@@ -51,5 +51,18 @@ function PictureCreate() {
     }
 }
 
+function testGame(id, klasse) {
+    if (turn == false) {
+        turn = true;
+
+        switch (teller) {
+
+
+        }
+    }
+}
+
+
+
 
 
