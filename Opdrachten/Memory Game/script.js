@@ -1,8 +1,8 @@
 memoryGame = document.getElementById("memory-game");
-var pictures = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20];
+var pictures = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18];
 
 for (var a = 0; a < pictures.length; a++) {
-    var randomCard = Math.floor(Math.random() * 19 + 1);
+    var randomCard = Math.floor(Math.random() * 18 + 1);
     var templates = pictures[a];
     pictures[a] = pictures[randomCard];
     pictures[randomCard] = templates;
@@ -22,7 +22,7 @@ PictureCreate();
 PictureHolder();
 
 function PictureHolder() {
-    for (var a = 0; a < 20; a++) {
+    for (var a = 0; a < 18; a++) {
         pictureHolder = document.createElement("div");
         pictureHolder.className = "picture-holder"
         pictureHolder.id = "pictureHolder" + a;
@@ -33,12 +33,12 @@ function PictureHolder() {
 
 function PictureCreate() {
     pictureHolder = document.getElementsByClassName("picture-holder");
-    for (var a = 0; a < 20; a++) {
+    for (var a = 0; a < 18; a++) {
         holder = document.createElement("IMG");
         holder.id = "driver" + pictures[a];
 
-        if (pictures[a] < 10) {
-            pictures[a] = 2 + pictures[a] * 10;
+        if (pictures[a] < 9) {
+            pictures[a] = 2 + pictures[a] * 9;
         }
 
         holder.className = "holder" + pictures[a];
