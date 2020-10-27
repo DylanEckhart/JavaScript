@@ -1,6 +1,7 @@
 body {
     text-align: center;
     background-color: red;
+    box-sizing: border-box;
 }
 
 div#top-bar{
@@ -54,5 +55,5 @@ div.picture-holder {
     box-sizing: border-box;
     height: 620px;
     width: 1250px;
-    border: solid 3px black;
+    border: 2px solid black;
 }
