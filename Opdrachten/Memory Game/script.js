@@ -12,7 +12,8 @@ var aanzet = false;
 var speler1 = "";
 var speler2 = "";
 
-var fotoId = "";
+var ID1 = "";
+var ID2 = "";
 
 var goed = 0;
 var fout = 0;
@@ -43,7 +44,7 @@ function PictureCreate() {
 
         holder.className = "holder" + pictures[a];
         holder.addEventListener("click", function () {
-            (this.id, this.className);
+            testGame(this.id, this.className);
         });
 
         holder.src = "IMG/";
@@ -56,6 +57,29 @@ function testGame(id, klasse) {
         turn = true;
 
         switch (teller) {
+            case 1:
+                ID1 = id;
+                speler1 = klasse;
+                document.getElementById(ID1).src = "IMG/f" + ID1 + ".jpg";
+
+                turn = false;
+                teller++;
+                break;
+
+            case 2:
+                ID2 = id;
+                speler2 = klasse;
+
+                if (speler1 == speler2) {
+                    if (ID1 !== ID2) {
+                        document.getElementById(ID2).src = "IMG/f" + ID2 + ".jpg";
+                        goed++;
+                        document.getElementById("goed").innerHTML = goed;
+                        turn = false;
+                    } else {
+                        document.getElementById(ID2).src = "IMG/f" + ID2 + ".jpg";
+                    }
+                }
 
 
         }
