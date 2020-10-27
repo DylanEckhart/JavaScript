@@ -6,7 +6,7 @@ body {
 div#top-bar{
     margin: auto;
     width: 1250px;
-    height: 50px;
+    height: 60px;
     border: 1px solid black;
 }
 
@@ -17,7 +17,7 @@ div#beurt {
     border: 1px solid black;
     background-color: white;
     width: 200px;
-    height: 50px;
+    height: 60px;
 }
 
 div#speler1 {
@@ -29,7 +29,7 @@ div#speler1 {
     border: 1px solid black;
     background-color: white;
     width: 200px;
-    height: 50px;
+    height: 60px;
 }
 
 div#speler2 {
@@ -41,11 +41,12 @@ div#speler2 {
     border: 1px solid black;
     background-color: white;
     width: 200px;
-    height: 50px;
+    height: 60px;
 }
 
 h3 {
-    margin: fill;
+    display: inline-block;
+    vertical-align: middle;
 }
 
 div.picture-holder {
