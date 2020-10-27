@@ -4,7 +4,7 @@ memoryGame = document.getElementById("memory-game");
 var pictures = [1,2,3,4,5,6,7,8,9,12,22,32,42,52,62,72,82,92];
 
 for (var a = 0; a < pictures.length; a++) {
-    var randomCard = Math.floor(Math.random() * 18 + 1);
+    var randomCard = Math.floor(Math.random() * 17 + 1);
     var templates = pictures[a];
     pictures[a] = pictures[randomCard];
     pictures[randomCard] = templates;
@@ -23,8 +23,8 @@ var goed = 0;
 var fout = 0;
 var teller = 1;
 
-PictureCreate();
 PictureHolder();
+PictureCreate();
 
 //Functies
 
@@ -41,11 +41,11 @@ function PictureHolder() {
 function PictureCreate() {
     pictureHolder = document.getElementsByClassName("picture-holder");
     for (var a = 0; a < 18; a++) {
-        holder = document.createElement("IMG");
+        holder = document.createElement("img");
         holder.id = "driver" + pictures[a];
 
-        if (pictures[a] < 9) {
-            pictures[a] = 2 + pictures[a] * 9;
+        if (pictures[a] < 10) {
+            pictures[a] = 2 + pictures[a] * 10;
         }
 
         holder.className = "holder" + pictures[a];
@@ -59,14 +59,14 @@ function PictureCreate() {
 }
 
 function testGame(id, klasse) {
-    if (aanzet == false) {
+    if (aanzet === false) {
         aanzet = true;
 
         switch (teller) {
             case 1:
                 ID1 = id;
                 speler1 = klasse;
-                document.getElementById(ID1).src = "IMG/" + ID1 + ".jpg";
+                document.getElementById(ID1).src = "IMG/f" + ID1 + ".jpg";
 
                 aanzet = false;
                 teller++;
@@ -76,10 +76,10 @@ function testGame(id, klasse) {
                 ID2 = id;
                 speler2 = klasse;
 
-                if (speler1 == speler2) {
+                if (speler1 === speler2) {
                     if (ID1 !== ID2) {
-                        document.getElementById(ID2).src = "IMG/" + ID2 + ".jpg";
-                        goed++;
+                        document.getElementById(ID2).src = "IMG/f" + ID2 + ".jpg";
+                        speler1++;
                         document.getElementById("goed").innerHTML = goed;
                         aanzet = false;
                     } else {
@@ -88,11 +88,11 @@ function testGame(id, klasse) {
                         aanzet = false;
                     }
                 } else {
-                    document.getElementById(ID2).src = "IMG/" + ID2 + ".jpg";
+                    document.getElementById(ID2).src = "IMG/f" + ID2 + ".jpg";
                     setTimeout(function () {
                         document.getElementById(ID1).src = "IMG/logo.jpg";
                         document.getElementById(ID2).src = "IMG/logo.jpg";
-                        fout++;
+                        speler2++;
                         document.getElementById("fout").innerHTML = fout;
                         aanzet = false;
                     }, 500);

@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Made functions" />
+    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Made functions">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,14 +97,7 @@
       <workItem from="1603703891762" duration="5256000" />
       <workItem from="1603723786945" duration="624000" />
       <workItem from="1603784384603" duration="13000" />
-      <workItem from="1603784411859" duration="3018000" />
-    </task>
-    <task id="LOCAL-00014" summary="Added photos">
-      <created>1603265064580</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1603265064580</updated>
+      <workItem from="1603784411859" duration="4976000" />
     </task>
     <task id="LOCAL-00015" summary="Added photos">
       <created>1603265239737</created>
@@ -438,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603788728189</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Made functions">
+      <created>1603789023424</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1603789023424</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,17 +491,21 @@
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="701" y="344" key="#Notifications/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603267629146" />
-    <state x="469" y="152" key="SettingsEditor" timestamp="1603703917624">
+    <state x="469" y="152" key="SettingsEditor" timestamp="1603789395421">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
-    <state x="469" y="152" key="SettingsEditor/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603703917624" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603788729494">
+    <state x="469" y="152" key="SettingsEditor/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603789395421" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603789024539">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1821/0.23.1920.1057@0.23.1920.1057" timestamp="1603359975522" />
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603359316847" />
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603788729494" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603789024539" />
     <state x="420" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1603297395202" />
+    <state x="745" y="295" key="refactoring.ChangeSignatureDialog" timestamp="1603790466141">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state x="745" y="295" key="refactoring.ChangeSignatureDialog/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603790466141" />
   </component>
 </project>
