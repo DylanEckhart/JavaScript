@@ -8,7 +8,7 @@ Boolean; beurtSpeler1 = true;
 Boolean; zet = true;
 
 // Text in top-bar
-document.getElementById("tekstbeurt").innerHTML = speler1 + " mag aanzetten";
+document.getElementById("tekstbeurt").innerHTML = speler1 + " mag beginnen";
 document.getElementById("textSpeler1").innerHTML = speler1 + " : " + puntenSpeler1;
 document.getElementById("textSpeler2").innerHTML = speler2 + " : " + puntenSpeler2;
 document.getElementById("button").addEventListener("click", button);
