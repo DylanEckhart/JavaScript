@@ -21,7 +21,7 @@ div#beurt {
     height: 60px;
 }
 
-div#tekstbeurt {
+div#tekstbeurt, textSpeler1, textSpeler2{
     display: flex;
     justify-content: center;
     align-items: center;
