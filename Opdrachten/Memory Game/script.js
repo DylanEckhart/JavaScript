@@ -1,5 +1,5 @@
 memoryGame = document.getElementById("memory-game");
-var pictures = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18];
+var pictures = [1,2,3,4,5,6,7,8,9,12,22,32,42,52,62,72,82,92];
 
 for (var a = 0; a < pictures.length; a++) {
     var randomCard = Math.floor(Math.random() * 18 + 1);
