@@ -1,2 +1,2 @@
 var beurt = "beurtje"
-document.getElementById("beurt").innerHTML = beurt;
+document.getElementById("tekstbeurt").innerHTML = beurt;
