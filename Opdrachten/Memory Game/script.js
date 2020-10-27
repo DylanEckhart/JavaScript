@@ -1,3 +1,5 @@
+//Rekenwerk
+
 memoryGame = document.getElementById("memory-game");
 var pictures = [1,2,3,4,5,6,7,8,9,12,22,32,42,52,62,72,82,92];
 
@@ -7,6 +9,8 @@ for (var a = 0; a < pictures.length; a++) {
     pictures[a] = pictures[randomCard];
     pictures[randomCard] = templates;
 }
+
+//Variabelen
 
 var aanzet = false;
 var speler1 = "";
@@ -21,6 +25,8 @@ var teller = 1;
 
 PictureCreate();
 PictureHolder();
+
+//Functies
 
 function PictureHolder() {
     for (var a = 0; a < 18; a++) {

@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Made functions">
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Hoofdstuk5/IMG/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/logo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" afterDir="false" />
-    </list>
+    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Made functions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,28 +93,7 @@
       <workItem from="1603703891762" duration="5256000" />
       <workItem from="1603723786945" duration="624000" />
       <workItem from="1603784384603" duration="13000" />
-      <workItem from="1603784411859" duration="2619000" />
-    </task>
-    <task id="LOCAL-00011" summary="Renamed pictures">
-      <created>1603181848832</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1603181848832</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Gave a background color and removed border">
-      <created>1603182342412</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1603182342412</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Gave a background color and removed border">
-      <created>1603183231184</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1603183231184</updated>
+      <workItem from="1603784411859" duration="3018000" />
     </task>
     <task id="LOCAL-00014" summary="Added photos">
       <created>1603265064580</created>
@@ -442,7 +417,28 @@
       <option name="project" value="LOCAL" />
       <updated>1603787936963</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Made functions">
+      <created>1603788455652</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1603788455652</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Made functions">
+      <created>1603788482481</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1603788482481</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Made functions">
+      <created>1603788728189</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1603788728189</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -495,13 +491,13 @@
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="469" y="152" key="SettingsEditor/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603703917624" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603787938261">
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603788729494">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1821/0.23.1920.1057@0.23.1920.1057" timestamp="1603359975522" />
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603359316847" />
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603787938261" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603788729494" />
     <state x="420" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1603297395202" />
   </component>
 </project>
