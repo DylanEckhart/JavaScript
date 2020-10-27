@@ -60,7 +60,7 @@ function testGame(id, klasse) {
             case 1:
                 ID1 = id;
                 speler1 = klasse;
-                document.getElementById(ID1).src = "IMG/f" + ID1 + ".jpg";
+                document.getElementById(ID1).src = "IMG/" + ID1 + ".jpg";
 
                 aanzet = false;
                 teller++;
@@ -72,7 +72,7 @@ function testGame(id, klasse) {
 
                 if (speler1 == speler2) {
                     if (ID1 !== ID2) {
-                        document.getElementById(ID2).src = "IMG/f" + ID2 + ".jpg";
+                        document.getElementById(ID2).src = "IMG/" + ID2 + ".jpg";
                         goed++;
                         document.getElementById("goed").innerHTML = goed;
                         aanzet = false;
@@ -82,7 +82,7 @@ function testGame(id, klasse) {
                         aanzet = false;
                     }
                 } else {
-                    document.getElementById(ID2).src = "IMG/f" + ID2 + ".jpg";
+                    document.getElementById(ID2).src = "IMG/" + ID2 + ".jpg";
                     setTimeout(function () {
                         document.getElementById(ID1).src = "IMG/logo.jpg";
                         document.getElementById(ID2).src = "IMG/logo.jpg";

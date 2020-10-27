@@ -1,4 +1,8 @@
+body {
+    background-color: red;
+}
 #memory-game {
+    background-color: red;
     width: 2000px;
     height: 1000px;
     border: 2px solid black;
