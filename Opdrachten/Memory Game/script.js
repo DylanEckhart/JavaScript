@@ -53,8 +53,8 @@ function PictureCreate() {
 }
 
 function testGame(id, klasse) {
-    if (turn == false) {
-        turn = true;
+    if (aanzet == false) {
+        aanzet = true;
 
         switch (teller) {
             case 1:
@@ -62,7 +62,7 @@ function testGame(id, klasse) {
                 speler1 = klasse;
                 document.getElementById(ID1).src = "IMG/f" + ID1 + ".jpg";
 
-                turn = false;
+                aanzet = false;
                 teller++;
                 break;
 
@@ -75,13 +75,25 @@ function testGame(id, klasse) {
                         document.getElementById(ID2).src = "IMG/f" + ID2 + ".jpg";
                         goed++;
                         document.getElementById("goed").innerHTML = goed;
-                        turn = false;
+                        aanzet = false;
                     } else {
-                        document.getElementById(ID2).src = "IMG/f" + ID2 + ".jpg";
+                        document.getElementById(ID1).src = "IMG/logo.jpg";
+                        count = 1;
+                        aanzet = false;
                     }
+                } else {
+                    document.getElementById(ID2).src = "IMG/f" + ID2 + ".jpg";
+                    setTimeout(function () {
+                        document.getElementById(ID1).src = "IMG/logo.jpg";
+                        document.getElementById(ID2).src = "IMG/logo.jpg";
+                        fout++;
+                        document.getElementById("fout").innerHTML = fout;
+                        aanzet = false;
+                    }, 500);
                 }
 
-
+                count = 1;
+                break;
         }
     }
 }
