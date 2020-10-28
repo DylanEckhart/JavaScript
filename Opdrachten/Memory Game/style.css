@@ -74,8 +74,7 @@ div#speler2 {
     position: relative;
 }
 
-div#picture-holder1 .overlay {
-    position: fixed;
+div.foto.after {
     box-sizing: border-box;
     display: inline-block;
     width: 200px;
@@ -89,6 +88,7 @@ div#picture-holder1 .overlay {
     cursor: pointer;
 }
 
-div#picture-holder1:hover .overlay {
+div.foto:hover .after {
     display: none;
+    position: relative;
 }
