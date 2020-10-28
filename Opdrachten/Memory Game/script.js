@@ -20,6 +20,9 @@ document.getElementById("textSpeler1").innerHTML = speler1 + " : " + puntenSpele
 document.getElementById("textSpeler2").innerHTML = speler2 + " : " + puntenSpeler2;
 /*document.getElementById("button").addEventListener("click", button);*/
 
+// Overlay
+
+
 // Foto's
 function createDriverPictures() {
     pictureHolders = document.getElementsByClassName("picture-holder");

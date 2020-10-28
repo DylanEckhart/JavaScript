@@ -21,9 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Changed border colors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,14 +99,7 @@
       <workItem from="1603784411859" duration="14265000" />
       <workItem from="1603824096550" duration="179000" />
       <workItem from="1603870686817" duration="102000" />
-      <workItem from="1603870802994" duration="13443000" />
-    </task>
-    <task id="LOCAL-00039" summary="Made a new directory">
-      <created>1603351310881</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1603351310881</updated>
+      <workItem from="1603870802994" duration="14587000" />
     </task>
     <task id="LOCAL-00040" summary="Made index.html, script.js and style.css">
       <created>1603351854323</created>
@@ -446,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603883058590</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Changed border colors">
+      <created>1603885803870</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1603885803870</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -504,13 +502,13 @@
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="469" y="152" key="SettingsEditor/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603789395421" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603883060138">
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603885804862">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1821/0.23.1920.1057@0.23.1920.1057" timestamp="1603359975522" />
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603359316847" />
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603883060138" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603885804862" />
     <state x="420" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1603824165431" />
     <state x="745" y="295" key="refactoring.ChangeSignatureDialog" timestamp="1603790466141">
       <screen x="0" y="23" width="1920" height="981" />
