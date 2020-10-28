@@ -8,14 +8,37 @@ var pictures;
 Boolean; beurtSpeler1 = true;
 Boolean; zet = true;
 
+// Functies aanroepen
+createPictureHolders();
+createDriverPictures();
+
 // Text in top-bar
 document.getElementById("tekstbeurt").innerHTML = speler1 + " mag beginnen";
 document.getElementById("textSpeler1").innerHTML = speler1 + " : " + puntenSpeler1;
 document.getElementById("textSpeler2").innerHTML = speler2 + " : " + puntenSpeler2;
 document.getElementById("button").addEventListener("click", button);
+pictures = document.getElementById("pictures");
+
+//Picture holders
+function createPictureHolders() {
+    for (var i = 0; i < 18; i++) {
+        pictureHolder = document.createElement("div");
+        pictureHolder.className = "driverPicture";
+        pictureHolder.id = "picture-holder" + i;
+    }
+}
 
 // Foto's
-pictures = document.getElementById("pictures");
+//pictures = document.getElementById("pictures");
+function createDriverPictures() {
+    pictureHolders = document.getElementById("picture-holder");
+    for (var i = 0; i < pictureHolders.length; i++) {
+        driverFoto = document.createElement("IMG");
+        driverFoto.src = "IMG/f" + (i + 1) + ".jpg";
+        driverFoto.id = (i + 1);
+        pictureHolders[i].appendChild(driverFoto);
+    }
+}
 
 // Puntensysteem, zetsysteem & beurtsysteem
 function beurtsysteem() {
