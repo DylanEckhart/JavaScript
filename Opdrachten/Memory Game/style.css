@@ -74,21 +74,21 @@ div#speler2 {
     position: relative;
 }
 
-div.overlay {
-    position: absolute;
+div#picture-holder1 .overlay {
+    position: fixed;
     box-sizing: border-box;
-    display: block;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    top: auto;
+    left: auto;
+    bottom: auto;
+    right: auto;
     background-image: url("IMG/logo.jpg");
     z-index: 2;
     cursor: pointer;
 }
 
-div.picture-holder:hover .overlay {
+div#picture-holder1:hover .overlay {
     display: none;
 }

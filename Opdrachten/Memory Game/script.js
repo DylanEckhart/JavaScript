@@ -11,7 +11,6 @@ Boolean; beurtSpeler1 = true;
 Boolean; zet = true;
 
 // Functies aanroepen
-createPictureHolders();
 createDriverPictures();
 
 // DOM argumenten
@@ -37,13 +36,15 @@ function createDriverPictures() {
 
 // Picture holders
 function createPictureHolders() {
+    var idNummer = 1;
     pictures = document.getElementById("pictures");
     for (aantal = 0; aantal < 2; aantal++) {
         for (i = 0; i < 9; i++) {
             pictureHolder = document.createElement("div");
             pictureHolder.className = "picture-holder";
-            pictureHolder.id = "picture-holder" + i;
+            pictureHolder.id = "picture-holder" + idNummer;
             pictures.appendChild(pictureHolder);
+            idNummer++;
         }
     }
 }
