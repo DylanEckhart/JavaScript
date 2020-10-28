@@ -19,11 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Changed border colors">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/index.html" afterDir="false" />
+    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Removed almost all functions due to miscomunication in classes">
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f6.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f7.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f8.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f9.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,14 +108,7 @@
       <workItem from="1603824096550" duration="179000" />
       <workItem from="1603870686817" duration="102000" />
       <workItem from="1603870802994" duration="16222000" />
-      <workItem from="1603891194202" duration="3054000" />
-    </task>
-    <task id="LOCAL-00044" summary="createDriverPictures function">
-      <created>1603357403851</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1603357403851</updated>
+      <workItem from="1603891194202" duration="3475000" />
     </task>
     <task id="LOCAL-00045" summary="createDriverPictures function">
       <created>1603358685422</created>
@@ -447,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603889075229</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="Removed almost all functions due to miscomunication in classes">
+      <created>1603896230404</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1603896230404</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,7 +496,8 @@
     <MESSAGE value="Made HTML, CSS and JS files" />
     <MESSAGE value="Made functions" />
     <MESSAGE value="Changed border colors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed border colors" />
+    <MESSAGE value="Removed almost all functions due to miscomunication in classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed almost all functions due to miscomunication in classes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="701" y="344" key="#Notifications" timestamp="1603267629146">
@@ -505,13 +512,14 @@
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="469" y="152" key="SettingsEditor/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603789395421" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603889076701">
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603896232014">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1821/0.23.1920.1057@0.23.1920.1057" timestamp="1603359975522" />
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603359316847" />
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
     <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603889076701" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1440.23.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1603896232014" />
     <state x="420" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1603824165431" />
     <state x="745" y="295" key="refactoring.ChangeSignatureDialog" timestamp="1603790466141">
       <screen x="0" y="23" width="1920" height="981" />
