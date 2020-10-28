@@ -20,8 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Made functions">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f62.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,14 +107,7 @@
       <workItem from="1603784411859" duration="14265000" />
       <workItem from="1603824096550" duration="179000" />
       <workItem from="1603870686817" duration="102000" />
-      <workItem from="1603870802994" duration="602000" />
-    </task>
-    <task id="LOCAL-00027" summary="Made 2 directory's">
-      <created>1603273515691</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1603273515691</updated>
+      <workItem from="1603870802994" duration="873000" />
     </task>
     <task id="LOCAL-00028" summary="Made 2 directory's">
       <created>1603273574635</created>
@@ -444,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603824163486</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Made functions">
+      <created>1603871651357</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1603871651357</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

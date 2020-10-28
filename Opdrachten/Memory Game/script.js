@@ -4,6 +4,7 @@ var speler1 = "Dylan"
 var speler2 = "Timo"
 var puntenSpeler1 = 0;
 var puntenSpeler2 = 0;
+var pictures;
 Boolean; beurtSpeler1 = true;
 Boolean; zet = true;
 
@@ -12,6 +13,9 @@ document.getElementById("tekstbeurt").innerHTML = speler1 + " mag beginnen";
 document.getElementById("textSpeler1").innerHTML = speler1 + " : " + puntenSpeler1;
 document.getElementById("textSpeler2").innerHTML = speler2 + " : " + puntenSpeler2;
 document.getElementById("button").addEventListener("click", button);
+
+// Foto's
+pictures = document.getElementById("pictures");
 
 // Puntensysteem, zetsysteem & beurtsysteem
 function beurtsysteem() {
@@ -33,7 +37,7 @@ function zetsysteem () {
     }
 }
 
-// Button function
+// Button voor puntenaantal
 function button() {
     if (beurtSpeler1 == true) {
         puntenSpeler1 += 1;
