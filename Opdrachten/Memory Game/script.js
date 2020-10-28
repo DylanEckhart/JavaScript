@@ -12,11 +12,11 @@ Boolean; zet = true;
 createPictureHolders();
 createDriverPictures();
 
-// Text in top-bar
+// DOM argumenten
 document.getElementById("tekstbeurt").innerHTML = speler1 + " mag beginnen";
 document.getElementById("textSpeler1").innerHTML = speler1 + " : " + puntenSpeler1;
 document.getElementById("textSpeler2").innerHTML = speler2 + " : " + puntenSpeler2;
-document.getElementById("button").addEventListener("click", button);
+/*document.getElementById("button").addEventListener("click", button);*/
 pictures = document.getElementById("pictures");
 
 // Foto's
@@ -24,13 +24,13 @@ function createDriverPictures() {
     pictureHolders = document.getElementsByClassName("picture-holder");
     for (var i = 0; i < pictureHolders.length; i++) {
         driverFoto = document.createElement("IMG");
-        driverFoto.src = "IMG/f" + (i + 1) + ".jpg";
-        driverFoto.id = (i + 1);
+        driverFoto.src = "IMG/f" + i + ".png";
+        driverFoto.id = i;
         pictureHolders[i].appendChild(driverFoto);
     }
 }
 
-//Picture holders
+// Picture holders
 function createPictureHolders() {
     for (var i = 0; i < 18; i++) {
         pictureHolder = document.createElement("div");
@@ -61,7 +61,7 @@ function zetsysteem () {
 
 // Button voor puntenaantal
 function button() {
-    if (beurtSpeler1 == true) {
+    if (beurtSpeler1 === true) {
         puntenSpeler1 += 1;
         document.getElementById("textSpeler1").innerHTML = speler1 + " : " + puntenSpeler1;
     } else {
@@ -71,7 +71,5 @@ function button() {
     // Bovenstaande functies aanroepen
     zetsysteem()
     beurtsysteem()
-
-
 }
 
