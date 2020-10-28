@@ -60,10 +60,10 @@ div#speler2 {
 }
 
 .picture-holder {
+    display: inline;
     box-sizing: border-box;
     height: 200px;
     width: 200px;
-
 }
 
 #pictures {
