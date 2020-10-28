@@ -20,25 +20,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Made functions">
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f0.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f6.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f7.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f8.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/logo.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" afterDir="false" />
     </list>
@@ -118,14 +138,7 @@
       <workItem from="1603784411859" duration="14265000" />
       <workItem from="1603824096550" duration="179000" />
       <workItem from="1603870686817" duration="102000" />
-      <workItem from="1603870802994" duration="5752000" />
-    </task>
-    <task id="LOCAL-00032" summary="Made functions">
-      <created>1603292808288</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1603292808288</updated>
+      <workItem from="1603870802994" duration="8583000" />
     </task>
     <task id="LOCAL-00033" summary="Made functions">
       <created>1603293029539</created>
@@ -463,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603875687548</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Made functions">
+      <created>1603876820292</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1603876820292</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -520,13 +540,13 @@
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="469" y="152" key="SettingsEditor/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603789395421" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603875688855">
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603876821784">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1821/0.23.1920.1057@0.23.1920.1057" timestamp="1603359975522" />
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603359316847" />
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603875688855" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603876821784" />
     <state x="420" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1603824165431" />
     <state x="745" y="295" key="refactoring.ChangeSignatureDialog" timestamp="1603790466141">
       <screen x="0" y="23" width="1920" height="981" />

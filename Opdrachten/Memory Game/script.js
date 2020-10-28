@@ -4,9 +4,9 @@ var speler2 = "Timo"
 var beurt = " heeft de beurt"
 var puntenSpeler1 = 0;
 var puntenSpeler2 = 0;
-var random = 0;
-var randomnumbers = [];
 var pictures;
+var aantal = 0;
+var i = 1;
 Boolean; beurtSpeler1 = true;
 Boolean; zet = true;
 
@@ -23,21 +23,25 @@ document.getElementById("textSpeler2").innerHTML = speler2 + " : " + puntenSpele
 // Foto's
 function createDriverPictures() {
     pictureHolders = document.getElementsByClassName("picture-holder");
-    for (var i = 0; i < pictureHolders.length; i++) {
-        /* driverFoto = document.createElement("IMG");
-        driverFoto.src = "IMG/f" + i + ".png";
-         driverFoto.id = i;*/
-        // pictureHolders[i].appendChild(driverFoto);
+    for (i = 1; i < pictureHolders.length; i++) {
+        driverFoto = document.createElement("IMG");
+        driverFoto.src = "IMG/f" + (i) + ".jpg";
+        driverFoto.id = (i);
+        pictureHolders[i].appendChild(driverFoto);
     }
+    console.log(pictureHolder.length)
 }
 
 // Picture holders
-pictures = document.getElementById("pictures");
 function createPictureHolders() {
-    for (var i = 0; i < 18; i++) {
-        pictureHolder = document.createElement("div");
-        pictureHolder.className = "driverPicture";
-        pictureHolder.id = "picture-holder" + i;
+    pictures = document.getElementById("pictures");
+    for (aantal = 0; aantal < 2; aantal++) {
+        for (i = 0; i < 9; i++) {
+            pictureHolder = document.createElement("div");
+            pictureHolder.className = "picture-holder";
+            pictureHolder.id = "picture-holder" + i;
+            pictures.appendChild(pictureHolder);
+        }
     }
 }
 
