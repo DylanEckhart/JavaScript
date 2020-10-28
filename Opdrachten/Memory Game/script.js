@@ -25,11 +25,11 @@ function createDriverPictures() {
     pictureHolders = document.getElementsByClassName("picture-holder");
     for (i = 1; i < pictureHolders.length; i++) {
         driverFoto = document.createElement("IMG");
-        driverFoto.src = "IMG/f" + (i) + ".jpg";
+        driverFoto.src = "IMG/f" + (i) + ".png";
         driverFoto.id = (i);
         pictureHolders[i].appendChild(driverFoto);
     }
-    console.log(pictureHolder.length)
+    console.log(pictureHolders.length)
 }
 
 // Picture holders
