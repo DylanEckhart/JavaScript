@@ -4,6 +4,8 @@ var speler2 = "Timo"
 var beurt = " heeft de beurt"
 var puntenSpeler1 = 0;
 var puntenSpeler2 = 0;
+var random = 0;
+var randomnumbers = [];
 var pictures;
 Boolean; beurtSpeler1 = true;
 Boolean; zet = true;
@@ -17,20 +19,20 @@ document.getElementById("tekstbeurt").innerHTML = speler1 + " mag beginnen";
 document.getElementById("textSpeler1").innerHTML = speler1 + " : " + puntenSpeler1;
 document.getElementById("textSpeler2").innerHTML = speler2 + " : " + puntenSpeler2;
 /*document.getElementById("button").addEventListener("click", button);*/
-pictures = document.getElementById("pictures");
 
 // Foto's
 function createDriverPictures() {
     pictureHolders = document.getElementsByClassName("picture-holder");
     for (var i = 0; i < pictureHolders.length; i++) {
-        driverFoto = document.createElement("IMG");
+        /* driverFoto = document.createElement("IMG");
         driverFoto.src = "IMG/f" + i + ".png";
-        driverFoto.id = i;
-        pictureHolders[i].appendChild(driverFoto);
+         driverFoto.id = i;*/
+        // pictureHolders[i].appendChild(driverFoto);
     }
 }
 
 // Picture holders
+pictures = document.getElementById("pictures");
 function createPictureHolders() {
     for (var i = 0; i < 18; i++) {
         pictureHolder = document.createElement("div");
