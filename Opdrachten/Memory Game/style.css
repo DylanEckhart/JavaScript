@@ -7,17 +7,18 @@ body {
 }
 
 div#top-bar{
+    padding: 2px;
     margin: auto;
     width: 1250px;
     height: 60px;
-    border: 1px solid black;
+    border: 1px solid red;
 }
 
 div#beurt {
     display: inline-block;
     text-align: center;
     margin: 0 auto;
-    border: 1px solid black;
+    border: 1px solid red;
     background-color: white;
     width: 200px;
     height: 60px;
@@ -41,7 +42,7 @@ div#speler1 {
     justify-content: center;
     align-items: center;
     text-align: center;
-    border: 1px solid black;
+    border: 1px solid red;
     background-color: white;
     width: 200px;
     height: 60px;
@@ -53,7 +54,7 @@ div#speler2 {
     justify-content: center;
     align-items: center;
     text-align: center;
-    border: 1px solid black;
+    border: 1px solid red;
     background-color: white;
     width: 200px;
     height: 60px;
@@ -67,5 +68,10 @@ div#speler2 {
 }
 
 #pictures {
-    border: 1px solid black;
+    border: 1px solid red;
+}
+
+div.overlay {
+    position: fixed;
+    display: inline-block;
 }
