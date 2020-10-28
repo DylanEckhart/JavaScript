@@ -72,9 +72,16 @@ div#speler2 {
 }
 
 div.overlay {
-    position: absolute;
-    display: inline-block;
+    position: relative;
+    box-sizing: border-box;
     display: block;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
     background-image: url("IMG/logo.jpg");
-
+    z-index: 2;
+    cursor: pointer;
 }
