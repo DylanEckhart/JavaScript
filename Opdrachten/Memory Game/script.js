@@ -1,7 +1,7 @@
 // Variabelen
-var beurt = " heeft de beurt"
 var speler1 = "Dylan"
 var speler2 = "Timo"
+var beurt = " heeft de beurt"
 var puntenSpeler1 = 0;
 var puntenSpeler2 = 0;
 var pictures;
@@ -19,24 +19,23 @@ document.getElementById("textSpeler2").innerHTML = speler2 + " : " + puntenSpele
 document.getElementById("button").addEventListener("click", button);
 pictures = document.getElementById("pictures");
 
+// Foto's
+function createDriverPictures() {
+    pictureHolders = document.getElementsByClassName("picture-holder");
+    for (var i = 0; i < pictureHolders.length; i++) {
+        driverFoto = document.createElement("IMG");
+        driverFoto.src = "IMG/f" + (i + 1) + ".jpg";
+        driverFoto.id = (i + 1);
+        pictureHolders[i].appendChild(driverFoto);
+    }
+}
+
 //Picture holders
 function createPictureHolders() {
     for (var i = 0; i < 18; i++) {
         pictureHolder = document.createElement("div");
         pictureHolder.className = "driverPicture";
         pictureHolder.id = "picture-holder" + i;
-    }
-}
-
-// Foto's
-//pictures = document.getElementById("pictures");
-function createDriverPictures() {
-    pictureHolders = document.getElementById("picture-holder");
-    for (var i = 0; i < pictureHolders.length; i++) {
-        driverFoto = document.createElement("IMG");
-        driverFoto.src = "IMG/f" + (i + 1) + ".jpg";
-        driverFoto.id = (i + 1);
-        pictureHolders[i].appendChild(driverFoto);
     }
 }
 
