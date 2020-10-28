@@ -54,7 +54,6 @@ function beurtsysteem() {
         beurtSpeler1 = true;
         zet = true;
     }
-
 }
 
 function zetsysteem () {

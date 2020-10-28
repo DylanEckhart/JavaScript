@@ -1,7 +1,7 @@
 body {
     margin: auto;
     text-align: center;
-    background-color: red;
+    background-color: rgb(255,37,39);
     box-sizing: border-box;
     width: 1250px;
 }
@@ -11,14 +11,14 @@ div#top-bar{
     margin: auto;
     width: 1250px;
     height: 60px;
-    border: 1px solid red;
+    border: 1px solid rgb(255,37,39);
 }
 
 div#beurt {
     display: inline-block;
     text-align: center;
     margin: 0 auto;
-    border: 1px solid red;
+    border: 1px solid rgb(255,37,39);
     background-color: white;
     width: 200px;
     height: 60px;
@@ -42,7 +42,7 @@ div#speler1 {
     justify-content: center;
     align-items: center;
     text-align: center;
-    border: 1px solid red;
+    border: 1px solid rgb(255,37,39);
     background-color: white;
     width: 200px;
     height: 60px;
@@ -54,7 +54,7 @@ div#speler2 {
     justify-content: center;
     align-items: center;
     text-align: center;
-    border: 1px solid red;
+    border: 1px solid rgb(255,37,39);
     background-color: white;
     width: 200px;
     height: 60px;
@@ -68,11 +68,12 @@ div#speler2 {
 }
 
 #pictures {
-    border: 1px solid red;
+    border: 1px solid rgb(255,37,39);
+    position: relative;
 }
 
 div.overlay {
-    position: relative;
+    position: absolute;
     box-sizing: border-box;
     display: block;
     width: 100%;
@@ -84,4 +85,8 @@ div.overlay {
     background-image: url("IMG/logo.jpg");
     z-index: 2;
     cursor: pointer;
+}
+
+div.picture-holder:hover .overlay {
+    display: none;
 }
