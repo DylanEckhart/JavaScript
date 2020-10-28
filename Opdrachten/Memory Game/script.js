@@ -2,6 +2,7 @@
 var speler1 = "Dylan"
 var speler2 = "Timo"
 var beurt = " heeft de beurt"
+
 var puntenSpeler1 = 0;
 var puntenSpeler2 = 0;
 var pictures;
@@ -11,7 +12,6 @@ var i = 1;
 
 Boolean; beurtSpeler1 = true;
 Boolean; zet = true;
-
 
 // DOM argumenten
 document.getElementById("tekstbeurt").innerHTML = speler1 + " mag beginnen";
