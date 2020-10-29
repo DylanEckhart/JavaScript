@@ -65,33 +65,45 @@ div#speler2 {
 .picture-holder {
     display: inline;
     box-sizing: border-box;
-    height: 200px;
+    height: auto;
+    width: 1250px;
+    margin: 2px;
+}
+
+.container {
     width: 200px;
-}
-
-div#container #img_1 {
-    box-sizing: border-box;
-    display: inline-block;
-    width: 200px;
     height: 200px;
-    top: auto;
-    left: auto;
-    bottom: auto;
-    right: auto;
-    background-image: url("IMG/logo.jpg");
-    z-index: 2;
-    cursor: pointer;
-}
-
-div#img_1:hover {
-    display: none;
-    position: absolute;
-}
-
-#container {
     padding: 2px;
     border: 1px solid rgb(255,37,39);
     position: relative;
 }
+
+#img_1 {
+    width: 200px;
+    height: 200px;
+    display: block;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    background-image: url("IMG/logo.jpg");
+    display: block;
+    z-index: 5;
+}
+
+.container:hover .overlay {
+    display: none;
+    width: 100%;
+    left: 0;
+    right: 0;
+}
+
 
 

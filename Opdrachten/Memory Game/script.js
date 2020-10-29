@@ -24,7 +24,7 @@ overlay = document.getElementsByClassName("overlay");
 
 // Laden van foto's
 function FotoLader () {
-    var container = document.getElementById("container");
+    var container = document.getElementsByClassName("container");
     var images = ["1.png","2.png","3.png","4.png","5.png","6.png","7.png","8.png","9.png"];
     for (aantal = 0; aantal < 2; aantal++) {
         for (var i = 0; i < 9; i++) {
