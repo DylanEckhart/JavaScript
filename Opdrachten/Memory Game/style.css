@@ -5,6 +5,7 @@ body {
     background-color: rgb(255,37,39);
     box-sizing: border-box;
     width: 1250px;
+    padding: 2px;
 }
 
 div#top-bar{
@@ -69,6 +70,7 @@ div#speler2 {
 }
 
 #container {
+    padding: 2px;
     border: 1px solid rgb(255,37,39);
     position: relative;
 }
