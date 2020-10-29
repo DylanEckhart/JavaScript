@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Removed almost all functions due to miscomunication in classes">
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,14 +103,7 @@
       <workItem from="1603891194202" duration="3720000" />
       <workItem from="1603901817806" duration="858000" />
       <workItem from="1603909427577" duration="34000" />
-      <workItem from="1603972632826" duration="1277000" />
-    </task>
-    <task id="LOCAL-00047" summary="createDriverPictures function">
-      <created>1603359544406</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1603359544406</updated>
+      <workItem from="1603972632826" duration="1611000" />
     </task>
     <task id="LOCAL-00048" summary="Changed heart.jpg and style">
       <created>1603359685027</created>
@@ -448,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603902655240</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Removed almost all functions due to miscomunication in classes">
+      <created>1603974451588</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1603974451588</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -15,7 +15,6 @@ Boolean; zet = true;
 FotoLader()
 AddID()
 
-
 // DOM argumenten
 document.getElementById("tekstbeurt").innerHTML = speler1 + " mag beginnen";
 document.getElementById("textSpeler1").innerHTML = speler1 + " : " + puntenSpeler1;
@@ -30,7 +29,7 @@ function FotoLader () {
     var images = ["1.png","2.png","3.png","4.png","5.png","6.png","7.png","8.png","9.png"];
     for (aantal = 0; aantal < 2; aantal++) {
         for (var i = 0; i < 9; i++) {
-            var fmg = document.createElement("IMG");
+            var fmg = document.createElement("img");
             fmg.setAttribute("src", "IMG/" + images[i]);
             fmg.setAttribute("class", "foto");
             fmg.setAttribute("alt", images[i]);
