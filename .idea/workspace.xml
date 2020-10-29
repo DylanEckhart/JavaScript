@@ -103,14 +103,7 @@
       <workItem from="1603891194202" duration="3720000" />
       <workItem from="1603901817806" duration="858000" />
       <workItem from="1603909427577" duration="34000" />
-      <workItem from="1603972632826" duration="2971000" />
-    </task>
-    <task id="LOCAL-00052" summary="Made HTML, CSS and JS files">
-      <created>1603710753758</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1603710753758</updated>
+      <workItem from="1603972632826" duration="4753000" />
     </task>
     <task id="LOCAL-00053" summary="Made HTML, CSS and JS files">
       <created>1603710793524</created>
@@ -448,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603975129369</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="Gave 2px padding">
+      <created>1603977217597</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1603977217598</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -508,13 +508,13 @@
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="469" y="152" key="SettingsEditor/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603789395421" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603975130963">
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1603977218711">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1821/0.23.1920.1057@0.23.1920.1057" timestamp="1603359975522" />
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603359316847" />
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603975130963" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603977218711" />
     <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1440.23.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1603896801745" />
     <state x="420" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1603902659736" />
     <state x="745" y="295" key="refactoring.ChangeSignatureDialog" timestamp="1603790466141">

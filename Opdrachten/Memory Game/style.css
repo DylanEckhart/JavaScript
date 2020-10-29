@@ -69,12 +69,6 @@ div#speler2 {
     width: 200px;
 }
 
-#container {
-    padding: 2px;
-    border: 1px solid rgb(255,37,39);
-    position: relative;
-}
-
 div#container #img_1 {
     box-sizing: border-box;
     display: inline-block;
@@ -89,7 +83,15 @@ div#container #img_1 {
     cursor: pointer;
 }
 
-div#container:hover #img_1 {
+div#img_1:hover {
     display: none;
+    position: absolute;
+}
+
+#container {
+    padding: 2px;
+    border: 1px solid rgb(255,37,39);
     position: relative;
 }
+
+
