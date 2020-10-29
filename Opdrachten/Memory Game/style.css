@@ -68,12 +68,12 @@ div#speler2 {
     width: 200px;
 }
 
-#pictures {
+#container {
     border: 1px solid rgb(255,37,39);
     position: relative;
 }
 
-div.foto.after {
+div#container #img_1 {
     box-sizing: border-box;
     display: inline-block;
     width: 200px;
@@ -87,7 +87,7 @@ div.foto.after {
     cursor: pointer;
 }
 
-div.foto:hover .after {
+div#container:hover #img_1 {
     display: none;
     position: relative;
 }

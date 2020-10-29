@@ -12,7 +12,6 @@ Boolean; beurtSpeler1 = true;
 Boolean; zet = true;
 
 // Aanroepen Functies
-FotoLader()
 AddID()
 
 // DOM argumenten
