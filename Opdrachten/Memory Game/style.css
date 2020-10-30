@@ -4,7 +4,7 @@ body {
     text-align: center;
     background-color: rgb(255,37,39);
     box-sizing: border-box;
-    width: 1250px;
+    width: 1300px;
     padding: 2px;
     display: grid;
 }
@@ -12,7 +12,7 @@ body {
 div#top-bar{
     padding: 2px;
     margin: auto;
-    width: 1250px;
+    width: 1300px;
     height: 60px;
     border: 1px solid rgb(255,37,39);
 }
@@ -57,21 +57,28 @@ div#speler2 {
     justify-content: center;
     align-items: center;
     text-align: center;
-    border: 1px solid rgb(255,37,39);
     background-color: white;
     width: 200px;
     height: 60px;
+    border: 1px solid rgb(255,37,39);
 }
 
-.picture-holder {
+div#container {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+div#grid {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: repeat(3, 200px);
-    box-sizing: border-box;
-    height: auto;
-    width: 1250px;
-    margin: 2px;
+    grid-template-rows: repeat(3, 220px);
+    grid-gap: 10px;
+}
 
+div.picture-holder {
+    width: 200px;
+    height: 200px;
+    background: blue;
 }
 
 

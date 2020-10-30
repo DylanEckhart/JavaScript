@@ -23,20 +23,9 @@ document.getElementById("textSpeler2").innerHTML = speler2 + " : " + puntenSpele
 overlay = document.getElementsByClassName("overlay");
 
 // Laden van foto's
-function FotoLader () {
-    var container = document.getElementsByClassName("container");
-    var images = ["1.png","2.png","3.png","4.png","5.png","6.png","7.png","8.png","9.png"];
-    for (aantal = 0; aantal < 2; aantal++) {
-        for (var i = 0; i < 9; i++) {
-            var fmg = document.createElement("img");
-            fmg.setAttribute("src", "IMG/" + images[i]);
-            fmg.setAttribute("class", "foto");
-            fmg.setAttribute("alt", images[i]);
-            console.log(i);
-            console.log("IMG/" + images[i]);
-            container.appendChild(fmg);
-        }
-    }
+let pictureholders = document.getElementsByClassName("picture-holder");
+for (let i = 0; i < pictureholders.length; i++) {
+    pictureholders[i].style.background = 'url("IMG/2.png")';
 }
 
 function AddID() {
