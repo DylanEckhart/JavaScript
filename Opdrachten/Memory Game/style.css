@@ -1,26 +1,21 @@
 body {
     font-family: 'Rubik', serif;
-    margin: auto;
     text-align: center;
     background-color: rgb(255,37,39);
-    box-sizing: border-box;
-    width: 1300px;
-    padding: 2px;
-    display: grid;
 }
 
 div#top-bar{
-    padding: 2px;
-    margin: auto;
-    width: 1300px;
-    height: 60px;
+    padding: 1px;
+    margin: 0 auto;
+    width: 1249px;
+    height: 80px;
     border: 1px solid rgb(255,37,39);
 }
 
 div#beurt {
     display: inline-block;
+    float: bottom;
     text-align: center;
-    margin: 0 auto;
     border: 1px solid rgb(255,37,39);
     background-color: white;
     width: 200px;
@@ -28,7 +23,7 @@ div#beurt {
 }
 
 div#tekstbeurt, #textSpeler1, #textSpeler2 {
-    display: flex;
+    display: grid;
     justify-content: center;
     align-items: center;
     flex-direction: column;
@@ -41,7 +36,7 @@ div#tekstbeurt, #textSpeler1, #textSpeler2 {
 
 div#speler1 {
     float: left;
-    display: flex;
+    display: grid;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -53,7 +48,7 @@ div#speler1 {
 
 div#speler2 {
     float: right;
-    display: flex;
+    display: grid;
     justify-content: center;
     align-items: center;
     text-align: center;
