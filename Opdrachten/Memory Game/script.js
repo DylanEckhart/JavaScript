@@ -1,10 +1,10 @@
 // Variabelen
-var speler1 = "Dylan"
-var speler2 = "Timo"
-var beurt = " heeft de beurt"
+let speler1 = "Dylan"
+let speler2 = "Timo"
+let beurt = " heeft de beurt"
 
-var puntenSpeler1 = 0;
-var puntenSpeler2 = 0;
+let puntenSpeler1 = 0;
+let puntenSpeler2 = 0;
 
 Boolean; beurtSpeler1 = true;
 Boolean; zet = true;
