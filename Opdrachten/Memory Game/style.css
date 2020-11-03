@@ -34,7 +34,7 @@ body {
     justify-content: space-between;
 }
 
-#beurtSpeler {
+.beurtSpeler {
     background: white;
     color: black;
     border: solid 1px black;
