@@ -16,6 +16,7 @@ toonPlayer();
 toonScore();
 opdrachtGeklikteKaart();
 
+// Methode voor gekozen kaart
 function opdrachtGeklikteKaart() {
     if (this.id !== laatstGekilkt && volgendeZet) {
         zetten++;
