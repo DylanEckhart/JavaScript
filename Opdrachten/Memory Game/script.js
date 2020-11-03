@@ -14,6 +14,19 @@ var spelerAanZet = Math.floor(Math.random() * 2);
 // Aanroepen Methodes
 toonPlayer();
 toonScore();
+opdrachtGeklikteKaart();
+
+function opdrachtGeklikteKaart() {
+    if (this.id !== laatstGekilkt && volgendeZet) {
+        zetten++;
+        laatstGekilkt = this.id;
+        draaiKaart(this.id);
+        if (zetten === 2) {
+            zoekVoorMatch();
+            resetVariabelen();
+        }
+    }
+}
 
 
 
