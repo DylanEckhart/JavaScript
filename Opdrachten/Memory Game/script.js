@@ -43,9 +43,9 @@ function reageerOpKlik() {
     volgendeZet = true;
 }
 
-// Randomize de kaarten
+// Plaatjes tonen
 var driverArray = [1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9];
-shuffleDeck(ponyArray);
+randomize(driverArray);
 for (var b = 1; b <= 18 ; b++) {
     var blok = document.createElement("div");
     blok.className = "overlay";
@@ -63,6 +63,16 @@ function draaiKaart(id) {
         openKaarten[0] = driverArray[id - 1];
     } else {
         openKaarten[1] = driverArray[id - 1];
+    }
+}
+
+// Randomize de kaartjes
+function randomize(driverArray) {
+    for (var c = 0; c < driverArray.length ; c++) {
+        var random = Math.floor(Math.random() * driverArray.length);
+        var template = driverArray[c];
+        driverArray[c] = driverArray[random];
+        driverArray[random] = template;
     }
 }
 
