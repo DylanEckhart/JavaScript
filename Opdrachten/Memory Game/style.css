@@ -16,6 +16,11 @@ body {
     grid-gap: 15px;
 }
 
+.overlay {
+    background: white;
+    border: 1px rgb(255,37,39) solid;
+}
+
 #button {
     position: absolute;
     top: 600px;
