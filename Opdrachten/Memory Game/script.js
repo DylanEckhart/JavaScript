@@ -15,6 +15,7 @@ var spelerAanZet = Math.floor(Math.random() * 2);
 toonPlayer();
 toonScore();
 opdrachtGeklikteKaart();
+toonPlaatje();
 
 // Methode voor gekozen kaart
 function opdrachtGeklikteKaart() {
@@ -44,15 +45,17 @@ function reageerOpKlik() {
 }
 
 // Plaatjes tonen
-var driverArray = [1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9];
-randomize(driverArray);
-for (var b = 1; b <= 18 ; b++) {
-    var blok = document.createElement("div");
-    blok.className = "overlay";
-    blok.id = b;
-    blok.addEventListener('click', reageerOpKlik);
-    blok.style.background = 'white';
-    document.getElementById("container").appendChild(blok);
+function toonPlaatje() {
+    var driverArray = [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9];
+    randomize(driverArray);
+    for (var b = 1; b <= 18; b++) {
+        var blok = document.createElement("div");
+        blok.className = "overlay";
+        blok.id = b;
+        blok.addEventListener('click', reageerOpKlik);
+        blok.style.background = 'white';
+        document.getElementById("container").appendChild(blok);
+    }
 }
 
 // Overlay laten verdwijnen en plaatje tonen
