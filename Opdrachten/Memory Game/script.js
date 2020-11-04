@@ -24,7 +24,7 @@ function opdrachtGeklikteKaart() {
         draaiKaart(this.id);
         if (zetten === 2) {
             zoekVoorMatch();
-            resetVariabelen();
+            resetSpelEnVariabelen();
         }
     }
 }
@@ -74,6 +74,19 @@ function randomize(driverArray) {
         driverArray[c] = driverArray[random];
         driverArray[random] = template;
     }
+}
+
+// Reset het spel en variabelen
+function resetSpelEnVariabelen() {
+    volgendeZet = false;
+    var button = document.getElementById("button");
+    if (pointsDylan + pointTimo < 9) {
+        button.style.display = "block";
+    } else {
+        //determineWinner();
+    }
+    button.addEventListener('click', reageerOpKlik);
+    openKaarten = [null, null];
 }
 
 
