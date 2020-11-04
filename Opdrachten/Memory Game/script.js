@@ -43,5 +43,29 @@ function reageerOpKlik() {
     volgendeZet = true;
 }
 
+// Randomize de kaarten
+var driverArray = [1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9];
+shuffleDeck(ponyArray);
+for (var b = 1; b <= 18 ; b++) {
+    var blok = document.createElement("div");
+    blok.className = "overlay";
+    blok.id = b;
+    blok.addEventListener('click', reageerOpKlik);
+    blok.style.background = 'white';
+    document.getElementById("container").appendChild(blok);
+}
+
+// Overlay laten verdwijnen en plaatje tonen
+function draaiKaart(id) {
+    var blok = document.getElementById(id);
+    blok.style.background = 'url("IMG/f0' + driverArray[id - 1] + '.png")';
+    if (zetten === 1) {
+        openKaarten[0] = driverArray[id - 1];
+    } else {
+        openKaarten[1] = driverArray[id - 1];
+    }
+}
+
+
 
 
