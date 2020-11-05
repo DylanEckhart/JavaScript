@@ -62,7 +62,7 @@ function toonPlaatje() {
 // Overlay laten verdwijnen en plaatje tonen
 function draaiKaart(id) {
     var blok = document.getElementById(id);
-    blok.style.background = 'url("IMG/f0' + driverArray[id - 1] + '.png")';
+    blok.style.background = 'url("IMG/f' + driverArray[id + 1] + '.png")';
     if (zetten === 1) {
         openKaarten[0] = driverArray[id - 1];
     } else {
@@ -113,7 +113,6 @@ function zoekVoorOvereenkomst() {
         } else {
             puntenTimo++;
         }
-        // Switch player in anticipation of extra switch (thus avoiding the switch)
         veranderSpeler();
         toonScore();
 
@@ -139,12 +138,12 @@ function veranderSpeler() {
 // Winnende speler
 function wieWint() {
     if (puntenTimo > puntenDylan) {
-        winner = "Aura";
+        winner = "Timo";
     } else {
-        winner = "Roshni";
+        winner = "Dylan";
     }
     var button = document.getElementById("button");
-    button.innerHTML = winner + " heeft gewonnen!";
+    button.innerHTML = winner + " wint!";
     button.style.display = 'block';
 }
 

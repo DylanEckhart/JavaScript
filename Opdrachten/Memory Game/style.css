@@ -7,7 +7,7 @@ body {
     height: 100vh
 }
 
-#container {
+div#container {
     position: absolute;
     top: 100px;
     display: grid;
@@ -21,7 +21,7 @@ body {
     border: 1px rgb(255,37,39) solid;
 }
 
-#button {
+div#button {
     position: absolute;
     top: 600px;
     border: 1px rgb(255,37,39) solid;
@@ -31,7 +31,7 @@ body {
     padding: 20px;
 }
 
-#players {
+div#players {
     display: flex;
     position: absolute;
     width: 90%;
@@ -39,7 +39,7 @@ body {
     justify-content: space-between;
 }
 
-.beurtSpeler {
+div.beurtSpeler {
     background: white;
     color: black;
     border: solid 1px black;
@@ -47,7 +47,7 @@ body {
     padding: 20px;
 }
 
-.punten {
+div.punten {
     display: flex;
     justify-content: center;
     align-items: center;
