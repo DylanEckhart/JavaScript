@@ -31,9 +31,9 @@ function opdrachtGeklikteKaart() {
 // Methode voor overlay weghalen
 function reageerOpKlik() {
     var alleOverlays = document.getElementsByClassName("overlay");
-    for (let a = 0; a < allBlocks.length ; a++) {
-        if (driverArray[a] !== null) {
-            alleOverlays[a].style.background = "white";
+    for (var i = 0; i < allBlocks.length ; i++) {
+        if (driverArray[i] != null) {
+            alleOverlays[i].style.background = "white";
         }
     }
     button.style.display = 'none';
@@ -46,23 +46,21 @@ function reageerOpKlik() {
 }
 
 // Plaatjes tonen
-function toonPlaatje() {
     var driverArray = [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9];
     randomize(driverArray);
-    for (var b = 1; b <= 18; b++) {
+    for (var i = 1; i <= 18; i++) {
         var blok = document.createElement("div");
         blok.className = "overlay";
-        blok.id = b;
+        blok.id = i;
         blok.addEventListener('click', reageerOpKlik);
         blok.style.background = 'white';
         document.getElementById("container").appendChild(blok);
     }
-}
 
 // Overlay laten verdwijnen en plaatje tonen
 function draaiKaart(id) {
     var blok = document.getElementById(id);
-    blok.style.background = 'url("IMG/f' + driverArray[id + 1] + '.png")';
+    blok.style.background = 'url("IMG/f' + driverArray[id - 1] + '.jpg")';
     if (zetten === 1) {
         openKaarten[0] = driverArray[id - 1];
     } else {

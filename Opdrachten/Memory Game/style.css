@@ -18,7 +18,15 @@ div#container {
 
 .overlay {
     background: white;
-    border: 1px rgb(255,37,39) solid;
+    border: 1px black solid;
+}
+
+div#picture-holders {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
 }
 
 div#button {
