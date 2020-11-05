@@ -12,10 +12,8 @@ var openKaarten = [null, null];
 var spelerAanZet = Math.floor(Math.random() * 2);
 
 // Aanroepen Methodes
-toonPlayer();
+toonPlayer()
 toonScore();
-opdrachtGeklikteKaart();
-toonPlaatje();
 
 // Methode voor gekozen kaart
 function opdrachtGeklikteKaart() {
@@ -24,7 +22,7 @@ function opdrachtGeklikteKaart() {
         laatstGekilkt = this.id;
         draaiKaart(this.id);
         if (zetten === 2) {
-            zoekVoorMatch();
+            zoekVoorOvereenkomst();
             resetSpelEnVariabelen();
         }
     }
@@ -42,6 +40,9 @@ function reageerOpKlik() {
     zetten = 0;
     laatstGekilkt = null;
     volgendeZet = true;
+    veranderSpeler();
+    toonPlayer();
+
 }
 
 // Plaatjes tonen
@@ -86,10 +87,65 @@ function resetSpelEnVariabelen() {
     if (pointsDylan + pointTimo < 9) {
         button.style.display = "block";
     } else {
-        //determineWinner();
+        wieWint();
     }
     button.addEventListener('click', reageerOpKlik);
     openKaarten = [null, null];
+}
+
+// Speler aan zet
+function toonPlayer() {
+    document.getElementById("beurt").innerHTML = spelers[SpelerAanZet];
+}
+
+// Score van speler
+function toonScore() {
+    document.getElementById("puntenDylan").innerHTML = puntenDylan;
+    document.getElementById("puntenTimo").innerHTML = puntenTimo;
+}
+
+// Controleer of het overeenkomt
+function zoekVoorOvereenkomst() {
+    if (openKaarten[0] === openKaarten[1]) {
+        var winnendeDriver = openKaarten[0];
+        if (spelerAanZet === 0) {
+            puntenDylan++;
+        } else {
+            puntenTimo++;
+        }
+        // Switch player in anticipation of extra switch (thus avoiding the switch)
+        veranderSpeler();
+        toonScore();
+
+        var alleOverlays = document.getElementsByClassName("overlay");
+        for (var i = 0; i < driverArray.length ; i++) {
+            if (driverArray[i] === winnendeDriver) {
+                alleOverlays[i].removeEventListener("click",opdrachtGeklikteKaart);
+                driverArray[i] = null;
+            }
+        }
+    }
+}
+
+// Verander speler
+function veranderSpeler() {
+    if (spelerAanZet === 0) {
+        spelerAanZet = 1;
+    } else {
+        spelerAanZet = 0;
+    }
+}
+
+// Winnende speler
+function wieWint() {
+    if (puntenTimo > puntenDylan) {
+        winner = "Aura";
+    } else {
+        winner = "Roshni";
+    }
+    var button = document.getElementById("button");
+    button.innerHTML = winner + " heeft gewonnen!";
+    button.style.display = 'block';
 }
 
 
