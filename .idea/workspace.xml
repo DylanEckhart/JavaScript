@@ -21,18 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Changed style.css and made class &quot;container&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f6.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f7.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f8.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f9.png" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/f9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/logo.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,14 +116,11 @@
       <workItem from="1604518110620" duration="956000" />
       <workItem from="1604520926438" duration="10000" />
       <workItem from="1604587753775" duration="1454000" />
-      <workItem from="1604590232550" duration="1019000" />
-    </task>
-    <task id="LOCAL-00074" summary="Made functions">
-      <created>1603803523450</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1603803523450</updated>
+      <workItem from="1604590232550" duration="1430000" />
+      <workItem from="1604907398690" duration="39000" />
+      <workItem from="1604907448861" duration="46000" />
+      <workItem from="1604907504260" duration="18000" />
+      <workItem from="1604907544422" duration="1516000" />
     </task>
     <task id="LOCAL-00075" summary="Made functions">
       <created>1603824163486</created>
@@ -472,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604589416281</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="Changed style.css and made class &quot;container&quot;">
+      <created>1604591516798</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1604591516798</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -520,6 +513,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Changed style.css and made class &quot;container&quot;" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="749" y="81" key="#Code_Folding" timestamp="1604909604878">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state x="749" y="81" key="#Code_Folding/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1604909604878" />
     <state x="701" y="344" key="#Notifications" timestamp="1603267629146">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
@@ -528,17 +525,17 @@
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="699" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603792691022" />
-    <state x="469" y="152" key="SettingsEditor" timestamp="1603789395421">
+    <state x="469" y="152" key="SettingsEditor" timestamp="1604907599334">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
-    <state x="469" y="152" key="SettingsEditor/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1603789395421" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1604589417506">
+    <state x="469" y="152" key="SettingsEditor/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1604907599334" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1604591517973">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1821/0.23.1920.1057@0.23.1920.1057" timestamp="1603359975522" />
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603359316847" />
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1604589417506" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1604591517973" />
     <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1440.23.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1603896801745" />
     <state x="420" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1604429891646" />
     <state x="745" y="295" key="refactoring.ChangeSignatureDialog" timestamp="1603790466141">

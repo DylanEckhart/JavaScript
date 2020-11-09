@@ -12,15 +12,15 @@ var openKaarten = [null, null];
 var spelerAanZet = Math.floor(Math.random() * 2);
 
 // Aanroepen Methodes
-toonPlayer()
+toonPlayer();
 toonScore();
 
 // Methode voor gekozen kaart
 function opdrachtGeklikteKaart() {
-    if (this.id !== laatstGekilkt && volgendeZet) {
+    if (id !== laatstGekilkt && volgendeZet) {
         zetten++;
-        laatstGekilkt = this.id;
-        draaiKaart(this.id);
+        laatstGekilkt = id;
+        draaiKaart(id);
         if (zetten === 2) {
             zoekVoorOvereenkomst();
             resetSpelEnVariabelen();
@@ -31,7 +31,7 @@ function opdrachtGeklikteKaart() {
 // Methode voor overlay weghalen
 function reageerOpKlik() {
     var alleOverlays = document.getElementsByClassName("overlay");
-    for (var i = 0; i < allBlocks.length ; i++) {
+    for (var i = 0; i < alleOverlays.length ; i++) {
         if (driverArray[i] != null) {
             alleOverlays[i].style.background = "white";
         }
@@ -42,7 +42,6 @@ function reageerOpKlik() {
     volgendeZet = true;
     veranderSpeler();
     toonPlayer();
-
 }
 
 // Plaatjes tonen
@@ -70,10 +69,10 @@ function draaiKaart(id) {
 
 // Randomize de kaartjes
 function randomize(driverArray) {
-    for (var c = 0; c < driverArray.length ; c++) {
+    for (var i = 0; i < driverArray.length ; i++) {
         var random = Math.floor(Math.random() * driverArray.length);
-        var template = driverArray[c];
-        driverArray[c] = driverArray[random];
+        var template = driverArray[i];
+        driverArray[i] = driverArray[random];
         driverArray[random] = template;
     }
 }
@@ -93,7 +92,7 @@ function resetSpelEnVariabelen() {
 
 // Speler aan zet
 function toonPlayer() {
-    document.getElementById("beurt").innerHTML = spelers[SpelerAanZet];
+    document.getElementById("beurt").innerHTML = spelers[spelerAanZet];
 }
 
 // Score van speler
