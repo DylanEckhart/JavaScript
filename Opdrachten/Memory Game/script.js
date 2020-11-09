@@ -17,10 +17,10 @@ toonScore();
 
 // Methode voor gekozen kaart
 function opdrachtGeklikteKaart() {
-    if (id !== laatstGekilkt && volgendeZet) {
+    if (this.id !== laatstGekilkt && volgendeZet) {
         zetten++;
-        laatstGekilkt = id;
-        draaiKaart(id);
+        laatstGekilkt = this.id;
+        draaiKaart(this.id);
         if (zetten === 2) {
             zoekVoorOvereenkomst();
             resetSpelEnVariabelen();
@@ -59,12 +59,11 @@ function reageerOpKlik() {
 // Overlay laten verdwijnen en plaatje tonen
 function draaiKaart(id) {
     var blok = document.getElementById(id);
-    id = 0;
-    blok.style.background = 'url("IMG/f' + driverArray[id] + '.jpg")';
+    blok.style.background = 'url("IMG/f1' + driverArray[id - i] + '.jpg")';
     if (zetten === 1) {
-        openKaarten[0] = driverArray[id];
+        openKaarten[0] = driverArray[id - i];
     } else {
-        openKaarten[1] = driverArray[id];
+        openKaarten[1] = driverArray[id - i];
     }
     console.log(draaiKaart.toString());
 }
@@ -83,7 +82,7 @@ function randomize(driverArray) {
 function resetSpelEnVariabelen() {
     volgendeZet = false;
     var button = document.getElementById("button");
-    if (pointsDylan + pointTimo < 9) {
+    if (puntenDylan + puntenTimo < 9) {
         button.style.display = "block";
     } else {
         wieWint();
