@@ -33,7 +33,7 @@ function reageerOpKlik() {
     var alleOverlays = document.getElementsByClassName("overlay");
     for (var i = 0; i < alleOverlays.length ; i++) {
         if (driverArray[i] != null) {
-            alleOverlays[i].style.background = "white";
+            alleOverlays[i].style.background = 'url(\"IMG/logo.png\")';
         }
     }
     button.style.display = 'none';
@@ -52,14 +52,14 @@ function reageerOpKlik() {
         blok.className = "overlay";
         blok.id = i;
         blok.addEventListener('click', reageerOpKlik);
-        blok.style.background = 'white';
+        blok.style.background = 'url("IMG/logo.png")';
         document.getElementById("container").appendChild(blok);
     }
 
 // Overlay laten verdwijnen en plaatje tonen
 function draaiKaart(id) {
     var blok = document.getElementById(id);
-    blok.style.background = 'url("IMG/f1' + driverArray[id - i] + '.jpg")';
+    blok.style.background = 'url("IMG/f0" + driverArray[id - i] + ".jpg")';
     if (zetten === 1) {
         openKaarten[0] = driverArray[id - i];
     } else {

@@ -17,7 +17,7 @@ div#container {
 }
 
 .overlay {
-    background: white;
+    background: url("IMG/logo.png");
     border: 1px black solid;
 }
 

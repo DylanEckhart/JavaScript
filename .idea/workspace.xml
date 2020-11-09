@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Changed style.css and made class &quot;container&quot;">
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/IMG/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,14 +120,7 @@
       <workItem from="1604907398690" duration="39000" />
       <workItem from="1604907448861" duration="46000" />
       <workItem from="1604907504260" duration="18000" />
-      <workItem from="1604907544422" duration="3353000" />
-    </task>
-    <task id="LOCAL-00080" summary="Made functions">
-      <created>1603875687548</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1603875687548</updated>
+      <workItem from="1604907544422" duration="3638000" />
     </task>
     <task id="LOCAL-00081" summary="Made functions">
       <created>1603876820292</created>
@@ -464,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604911240338</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="Changed style.css and made class &quot;container&quot;">
+      <created>1604911620840</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1604911620840</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -528,13 +529,13 @@
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="469" y="152" key="SettingsEditor/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1604907599334" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1604911241486">
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1604911621774">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1821/0.23.1920.1057@0.23.1920.1057" timestamp="1603359975522" />
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603359316847" />
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1604911241486" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1604911621774" />
     <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1440.23.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1603896801745" />
     <state x="420" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1604429891646" />
     <state x="745" y="295" key="refactoring.ChangeSignatureDialog" timestamp="1603790466141">
