@@ -1,3 +1,4 @@
+
 html {
     font-family: 'Rubik', serif;
     background-color: rgb(255,37,39);
@@ -31,7 +32,7 @@ div#picture-holders {
 
 button#button {
     position: absolute;
-    top: 600px;
+    top: 750px;
     border: 1px black solid;
     background: white;
     color: purple;

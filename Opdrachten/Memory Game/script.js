@@ -45,16 +45,16 @@ var reageerOpKlik = function () {
 };
 
 // Plaatjes tonen
-    var driverArray = [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9];
-    randomize(driverArray);
-    for (var i = 1; i <= 18; i++) {
-        var blok = document.createElement("div");
-        blok.className = "overlay";
-        blok.id = i;
-        blok.addEventListener('click', opdrachtGeklikteKaart);
-        blok.style.background = 'url("IMG/logo.png")';
-        document.getElementById("container").appendChild(blok);
-    }
+var driverArray = [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9];
+randomize(driverArray);
+for (var i = 1; i <= 18; i++) {
+    var blok = document.createElement("div");
+    blok.className = "overlay";
+    blok.id = i;
+    blok.addEventListener('click', opdrachtGeklikteKaart);
+    blok.style.background = 'url("IMG/logo.png")';
+    document.getElementById("container").appendChild(blok);
+}
 
 // Overlay laten verdwijnen en plaatje tonen
 function draaiKaart(id) {
