@@ -66,6 +66,7 @@ function draaiKaart(id) {
     } else {
         openKaarten[1] = driverArray[id];
     }
+    console.log(draaiKaart.toString());
 }
 
 // Randomize de kaartjes
