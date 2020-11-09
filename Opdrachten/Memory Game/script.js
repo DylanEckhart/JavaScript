@@ -16,7 +16,7 @@ toonPlayer();
 toonScore();
 
 // Methode voor gekozen kaart
-function opdrachtGeklikteKaart() {
+var opdrachtGeklikteKaart = function () {
     if (this.id !== laatstGekilkt && volgendeZet) {
         zetten++;
         laatstGekilkt = this.id;
@@ -26,10 +26,10 @@ function opdrachtGeklikteKaart() {
             resetSpelEnVariabelen();
         }
     }
-}
+};
 
 // Methode voor overlay weghalen
-function reageerOpKlik() {
+var reageerOpKlik = function () {
     var alleOverlays = document.getElementsByClassName("overlay");
     for (var i = 0; i < alleOverlays.length ; i++) {
         if (driverArray[i] != null) {
@@ -42,7 +42,7 @@ function reageerOpKlik() {
     volgendeZet = true;
     veranderSpeler();
     toonPlayer();
-}
+};
 
 // Plaatjes tonen
     var driverArray = [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9];
@@ -51,7 +51,7 @@ function reageerOpKlik() {
         var blok = document.createElement("div");
         blok.className = "overlay";
         blok.id = i;
-        blok.addEventListener('click', reageerOpKlik);
+        blok.addEventListener('click', opdrachtGeklikteKaart);
         blok.style.background = 'url("IMG/logo.png")';
         document.getElementById("container").appendChild(blok);
     }
