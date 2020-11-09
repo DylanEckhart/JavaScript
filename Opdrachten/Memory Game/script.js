@@ -59,7 +59,7 @@ function reageerOpKlik() {
 // Overlay laten verdwijnen en plaatje tonen
 function draaiKaart(id) {
     var blok = document.getElementById(id);
-    blok.style.background = 'url("IMG/f0" + driverArray[id - i] + ".jpg")';
+    blok.style.background = 'url("IMG/f0' + driverArray[id - i] + '.jpg")';
     if (zetten === 1) {
         openKaarten[0] = driverArray[id - i];
     } else {
@@ -106,6 +106,7 @@ function toonScore() {
 function zoekVoorOvereenkomst() {
     if (openKaarten[0] === openKaarten[1]) {
         var winnendeDriver = openKaarten[0];
+        console.log("Match ID" + winnendeDriver);
         if (spelerAanZet === 0) {
             puntenDylan++;
         } else {
@@ -118,6 +119,7 @@ function zoekVoorOvereenkomst() {
         for (var i = 0; i < driverArray.length ; i++) {
             if (driverArray[i] === winnendeDriver) {
                 alleOverlays[i].removeEventListener("click",opdrachtGeklikteKaart);
+                console.log("Verwijderde eventlistener" + i);
                 driverArray[i] = null;
             }
         }
