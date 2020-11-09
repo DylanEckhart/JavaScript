@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7c84715-af72-4d84-85a0-7f1375397b27" name="Default Changelist" comment="Changed style.css and made class &quot;container&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/Memory Game/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Memory Game/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,21 +119,7 @@
       <workItem from="1604907398690" duration="39000" />
       <workItem from="1604907448861" duration="46000" />
       <workItem from="1604907504260" duration="18000" />
-      <workItem from="1604907544422" duration="1516000" />
-    </task>
-    <task id="LOCAL-00075" summary="Made functions">
-      <created>1603824163486</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1603824163486</updated>
-    </task>
-    <task id="LOCAL-00076" summary="Made functions">
-      <created>1603871651357</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1603871651357</updated>
+      <workItem from="1604907544422" duration="1845000" />
     </task>
     <task id="LOCAL-00077" summary="Made functions">
       <created>1603871811533</created>
@@ -465,7 +450,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604591516798</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="Changed style.css and made class &quot;container&quot;">
+      <created>1604909687249</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1604909687249</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Changed style.css and made class &quot;container&quot;">
+      <created>1604909703974</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1604909703974</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,13 +528,13 @@
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="469" y="152" key="SettingsEditor/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1604907599334" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1604591517973">
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2" timestamp="1604909690740">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1821/0.23.1920.1057@0.23.1920.1057" timestamp="1603359975522" />
     <state x="560" y="257" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603359316847" />
     <state x="560" y="239" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1602144019390" />
-    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1604591517973" />
+    <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.981@0.23.1920.981" timestamp="1604909690740" />
     <state x="560" y="240" key="Vcs.Push.Dialog.v2/-1440.23.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1603896801745" />
     <state x="420" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1604429891646" />
     <state x="745" y="295" key="refactoring.ChangeSignatureDialog" timestamp="1603790466141">

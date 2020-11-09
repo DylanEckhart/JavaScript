@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    height: 100vh
+    height: 100vh;
 }
 
 div#container {
@@ -29,12 +29,12 @@ div#picture-holders {
     height: 100vh;
 }
 
-div#button {
+button#button {
     position: absolute;
     top: 600px;
-    border: 1px rgb(255,37,39) solid;
+    border: 1px black solid;
     background: white;
-    color: black;
+    color: purple;
     font-size: 2em;
     padding: 20px;
 }
