@@ -59,11 +59,12 @@ function reageerOpKlik() {
 // Overlay laten verdwijnen en plaatje tonen
 function draaiKaart(id) {
     var blok = document.getElementById(id);
-    blok.style.background = 'url("IMG/f' + driverArray[id - 1] + '.jpg")';
+    id = 0;
+    blok.style.background = 'url("IMG/f' + driverArray[id] + '.jpg")';
     if (zetten === 1) {
-        openKaarten[0] = driverArray[id - 1];
+        openKaarten[0] = driverArray[id];
     } else {
-        openKaarten[1] = driverArray[id - 1];
+        openKaarten[1] = driverArray[id];
     }
 }
 
